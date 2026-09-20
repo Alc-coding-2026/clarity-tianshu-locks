@@ -1,0 +1,42 @@
+{
+  "approved_by": "Allen",
+  "approval_date": "2026-09-13",
+  "user_instruction": "approved",
+  "scope": "Eight newly published bilingual specimens (English and Traditional Chinese), as presented in preceding delivery",
+  "source_commit": "3b7bde69783777b84284b6f70a7bd4582c1673d5",
+  "boundary": "Wording approval only; does not approve missing sections, every profile, individual client applicability, or unrelated tax/non-consolidation drafts. Existing approved wording blocks and tables unchanged.",
+  "files": [
+    {
+      "path": "parts/01-shared/front-matter-draft.md",
+      "approved_source_sha256": "7e82c30eb421b58a610dc16ec6ae6c854eb72acf51819313b8ddc4c267f78021"
+    },
+    {
+      "path": "parts/04-fs/financial-position-draft.md",
+      "approved_source_sha256": "7330532af1675c7f4c59cd3916e204d49fc65a93f865a3f7f54ecc9e07b1f8b3"
+    },
+    {
+      "path": "parts/04-fs/income-statement-draft.md",
+      "approved_source_sha256": "483be69c53cbefab0c01b082506838c329065122a645442ddf25a31ae290a0b2"
+    },
+    {
+      "path": "parts/05-notes/illustrative-basis-policies.md",
+      "approved_source_sha256": "af7406ef7be399697c00e637a988e6006c73a1ea8d98d13f522e5ce36b0fbba3"
+    },
+    {
+      "path": "parts/05-notes/illustrative-general-information.md",
+      "approved_source_sha256": "84e3bb4a2a1ef08b83b1fc56818343b56c88c56b21df9752cbc6a1ef696e5ae9"
+    },
+    {
+      "path": "parts/05-notes/illustrative-ppe.md",
+      "approved_source_sha256": "2cb7facc4596cffcea1d89d1d50f86b845f491c1a5e9da4783d28cda36b37f84"
+    },
+    {
+      "path": "parts/05-notes/illustrative-related-parties.md",
+      "approved_source_sha256": "b73904ddb69284b7df15789556c942461adda9d4c42ff1756062e12c1ad0eef2"
+    },
+    {
+      "path": "parts/05-notes/illustrative-share-capital.md",
+      "approved_source_sha256": "281e64368243bd2cc74d5153855ac9fd108e9f2215727453cf7df9eab430ab12"
+    }
+  ]
+}

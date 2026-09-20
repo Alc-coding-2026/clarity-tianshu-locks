@@ -1,0 +1,10 @@
+{
+  "approved_by": "Allen",
+  "approval_date": "2026-09-19",
+  "user_instruction": "locked",
+  "scope": "Note 2 foreign currency translation EN+ZH: translation-only (transaction-date rates; monetary items at YE rates; differences to P&L). No HKD/functional sentence.",
+  "files": [
+    "parts/05-notes/illustrative-fx-policies.md"
+  ],
+  "boundary": "Does not lock Note 1 HKD/functional upgrade; does not lock non-monetary items, hedging, or presentation-currency change."
+}

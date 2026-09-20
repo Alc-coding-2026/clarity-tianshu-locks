@@ -1,0 +1,10 @@
+{
+  "approved_by": "Allen",
+  "approval_date": "2026-09-19",
+  "user_instruction": "lock",
+  "scope": "SOCIE EN+ZH: prior-YE/current-YE balance labels; Profit/(Loss); Dividends paid; Allotment of ordinary shares (further issue); optional Capital reduction = \u6e1b\u5c11\u80a1\u672c; no Total income and expense row",
+  "files": [
+    "parts/04-fs/equity-movements-draft.md"
+  ],
+  "boundary": "Does not lock multi-class reserves, share premium column, or Cap.622 reduction procedure narrative beyond the row label."
+}

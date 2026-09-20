@@ -1,0 +1,12 @@
+{
+  "approved_by": "Allen",
+  "approval_date": "2026-09-19",
+  "user_instruction": "make sure both english and chinese",
+  "scope": "Dereg BS Note 2 break-up + SoFP face EN+ZH; Directors' Report Case 4 full blocks EN+ZH (Opening A/B, state of affairs, directors, auditor)",
+  "files": [
+    "parts/05-notes/illustrative-dereg-breakup-basis.md",
+    "parts/02-dr/case4-dereg.md",
+    "parts/06-dereg.md"
+  ],
+  "boundary": "Does not lock Excel long Note 2; does not invent NNO/s.88B; AR dereg period page not rewritten in this lock."
+}

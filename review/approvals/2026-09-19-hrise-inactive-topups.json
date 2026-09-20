@@ -1,0 +1,11 @@
+{
+  "approved_by": "Allen",
+  "approval_date": "2026-09-19",
+  "user_instruction": "this is top up to \u5929\u66f8 / Debug PM amend docx faces",
+  "scope": "Path A Variant P parent/holding-company letter of support EN+ZH; fellow subsidiary costs not recharged EN+ZH; HRise inactive provenance",
+  "files": [
+    "parts/05-notes/illustrative-going-concern-path-a.md",
+    "parts/05-notes/illustrative-fellow-costs-not-recharged.md"
+  ],
+  "boundary": "Does not replace shareholder/director Path A variants; does not lock Protection QO wording in this approval."
+}

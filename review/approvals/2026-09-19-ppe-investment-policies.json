@@ -1,0 +1,10 @@
+{
+  "approved_by": "Allen",
+  "approval_date": "2026-09-19",
+  "user_instruction": "lock",
+  "scope": "Note 2 PPE + investments cost model EN+ZH: PPE cost less depn/impairment; sub/asso/JV cost less impairment (no equity accounting); equity investments SME-FRS s.6 cost model (not FV)",
+  "files": [
+    "parts/05-notes/illustrative-ppe-investment-policies.md"
+  ],
+  "boundary": "Does not lock depreciation rate tables, inventory policy, FV election, or non-consolidation consent wording (stays in subsidiaries note)."
+}

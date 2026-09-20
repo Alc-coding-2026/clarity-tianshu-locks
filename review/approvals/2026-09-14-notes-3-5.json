@@ -1,0 +1,11 @@
+{
+  "approved_by": "Allen",
+  "approval_date": "2026-09-14",
+  "user_instruction": "lock your advise",
+  "scope": "Note 3 simple revenue (narrative if one stream; short table of live categories only). Note 5 charge pack with two-tier default 8.25%/16.5%, year-specific profits-tax reduction, short current-tax table, tax payable at YE; T1\u2013T4 plus payable/nil-payable line; long reconciliation omitted unless needed.",
+  "files": [
+    "parts/05-notes/illustrative-revenue.md",
+    "parts/05-notes/illustrative-income-tax.md"
+  ],
+  "boundary": "Corporate SME-FRS specimen. Does not lock unincorporated rates, deferred-tax recognition wording, or a quantified unused-loss figure without a schedule."
+}

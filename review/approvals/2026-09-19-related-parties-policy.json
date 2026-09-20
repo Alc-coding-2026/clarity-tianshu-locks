@@ -1,0 +1,10 @@
+{
+  "approved_by": "Allen",
+  "approval_date": "2026-09-19",
+  "user_instruction": "update the correct chinese / lock",
+  "scope": "Note 2 Related parties long definition EN (Excel Y1-NL sheet 12(c)) + editorial Traditional Chinese (\u6240\u5c6c corrected; not \u6240\u5c5e)",
+  "files": [
+    "parts/05-notes/illustrative-related-parties-policy.md"
+  ],
+  "boundary": "Chinese is editorial, not HKICPA official. Does not replace the related-parties disclosure note."
+}

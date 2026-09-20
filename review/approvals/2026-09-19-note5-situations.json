@@ -1,0 +1,10 @@
+{
+  "approved_by": "Allen",
+  "approval_date": "2026-09-19",
+  "user_instruction": "write them all ready? Both english and chinese",
+  "scope": "Note 5 sufficient situations EN+ZH: C1 charge, C2 reduction wipe, N1 no assessable profits, N2 current tax loss, N3 b/f loss absorption, P1 payable, P2 nil payable",
+  "files": [
+    "parts/05-notes/illustrative-income-tax.md"
+  ],
+  "boundary": "Common SME-FRS corporate pack. Does not lock deferred tax, overseas tax, or quantified unused-loss figures without a schedule."
+}

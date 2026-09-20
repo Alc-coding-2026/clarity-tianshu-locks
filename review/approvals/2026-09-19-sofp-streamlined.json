@@ -1,0 +1,10 @@
+{
+  "approved_by": "Allen",
+  "approval_date": "2026-09-19",
+  "user_instruction": "ok (streamlined SoFP: Accounts and other R/P; tax recoverable/payable separate; bank loans current/non-current; investments in sub/assoc/JV; equity investments; no directors face line)",
+  "scope": "Update parts/04-fs/financial-position-draft.md face captions and lines as locked 2026-09-19",
+  "files": [
+    "parts/04-fs/financial-position-draft.md"
+  ],
+  "boundary": "Specimen face layout only; does not approve classification of a real balance or unused-line retention in a live pack."
+}

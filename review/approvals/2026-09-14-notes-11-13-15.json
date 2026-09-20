@@ -1,0 +1,11 @@
+{
+  "approved_by": "Allen",
+  "approval_date": "2026-09-14",
+  "user_instruction": "confirmed and locked",
+  "scope": "Notes 11 (s.383(1)(d) directors, upgraded plural heading), 13 and 15 (Accounts and other receivables/payables entry-port specimen including directors aggregate line, rental deposits, prepayments, receipts in advance \u9810\u6536\u6b3e\u9805, sub/associate/JV lines)",
+  "boundary": "Wording/specimen lock for these notes only. SoFP face captions Accounts and other receivables/payables. Does not re-approve the eight 2026-09-13 illustrative specimens. Accruals and Accrued expenses both accepted EN labels.",
+  "files": [
+    "parts/05-notes/illustrative-amounts-due-directors-s383.md",
+    "parts/05-notes/illustrative-accounts-receivables-payables.md"
+  ]
+}

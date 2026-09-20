@@ -1,0 +1,10 @@
+{
+  "approved_by": "Allen",
+  "approval_date": "2026-09-19",
+  "user_instruction": "confirmed",
+  "scope": "Directors' remuneration Version A sentence-only (none) and Version B table (Directors' fees, Salaries and other emoluments, Retirement benefit scheme contributions) EN+ZH",
+  "files": [
+    "parts/05-notes/illustrative-directors-remuneration.md"
+  ],
+  "boundary": "Common SME-FRS specimen. Remuneration note is separate from s.383(1)(d) amounts-due Note 11."
+}
