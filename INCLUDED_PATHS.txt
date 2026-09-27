@@ -47,3 +47,6 @@ parts/05-notes/illustrative-related-parties.md
 parts/05-notes/illustrative-revenue-policies.md
 parts/05-notes/illustrative-revenue.md
 parts/05-notes/illustrative-share-capital.md
+parts/05-notes/illustrative-non-consol-bases.md
+parts/05-notes/non-consolidation-placement.md
+review/approvals/2026-09-27-non-consol-bases-abc-s.json

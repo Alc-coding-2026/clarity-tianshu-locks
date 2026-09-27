@@ -7,15 +7,15 @@
 | | |
 | --- | --- |
 | Working bible (private) | [`Alc-coding-2026/clarity-tianshu`](https://github.com/Alc-coding-2026/clarity-tianshu) |
-| Pinned source commit | `6594f2230ddc96447495e66f7ba8d58b6ee3e509` |
-| Published | 2026-09-20T08:13:20+00:00 |
+| Pinned source commit | `d244acda31a70187de39a58275f2eb4098eb94bb` |
+| Published | 2026-09-27T09:33:14+00:00 |
 
 Agents and staff with GitHub access should still prefer the **private** working bible for drafts and findings. This pack is the **agreed snapshot** anyone with the link can read.
 
 ## Included
 
 - `review/approvals/*.json` — Allen lock records
-- Locked specimens under `parts/` (notes, SOCIE, dereg, AR QO variants, holding company, GC Path A, etc.)
+- Locked specimens under `parts/` (notes, SOCIE, dereg, AR QO, non-consol A/B/C/S, holding company, GC Path A, etc.)
 
 ## Not included
 

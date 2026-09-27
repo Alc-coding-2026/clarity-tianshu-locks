@@ -1,0 +1,10 @@
+{
+  "id": "2026-09-27-non-consol-bases-abc-s",
+  "locked_at": "2026-09-27",
+  "locked_by": "Allen Chan",
+  "paths": [
+    "parts/05-notes/illustrative-non-consol-bases.md"
+  ],
+  "summary": "Lock non-consolidation full-basis Variants A Cap.622 s.379(3)(a), B s.379(3)(b), C s.379(3)(c), and S SME-FRS 19.1(c) as drafted EN + editorial ZH. Placement remains subsidiaries note; Note 2(c) cross-ref only. No s.360 75% Note 7 specimen.",
+  "variants": ["A", "B", "C", "S"]
+}

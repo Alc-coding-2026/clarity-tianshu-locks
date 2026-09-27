@@ -24,6 +24,7 @@ Maps to nav: 附注
 - Pack index: [06-dereg.md](./06-dereg.md)
 
 ### Other locked specimens
+- [Non-consol full bases A/B/C/S](./05-notes/illustrative-non-consol-bases.md) — locked 2026-09-27 (Cap.622 s.379(3)(a)/(b)/(c) + SME-FRS 19.1(c))
 - [General information](./05-notes/illustrative-general-information.md) — locked 2026-09-13
 - [Basis / policies intro](./05-notes/illustrative-basis-policies.md) — locked 2026-09-13
 - [PPE movement note](./05-notes/illustrative-ppe.md) — locked 2026-09-13
@@ -39,7 +40,7 @@ Maps to nav: 附注
 ## Drafts still open
 - [Core policies (remaining)](./05-notes/illustrative-core-policies.md) — AR/AP policy draft
 - [Commitments / events](./05-notes/illustrative-commitments-events.md) — going-concern pack
-- [Non-consolidation placement](./05-notes/non-consolidation-placement.md)
+- [Non-consolidation placement](./05-notes/non-consolidation-placement.md) — Cap.622 map + locked full bases A/B/C/S (2026-09-27)
 
 ## Related FS
 - [SOCIE](./04-fs/equity-movements-draft.md) — locked 2026-09-19
