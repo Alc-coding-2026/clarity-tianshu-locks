@@ -1,0 +1,11 @@
+{
+  "id": "2026-10-17-currency-note1",
+  "locked_at": "2026-10-17",
+  "locked_by": "Allen Chan",
+  "via": "Audit/天書 chat t310u",
+  "decision": "Lock Note 1 currency Paths A/B/C (change of functional currency; reasons 1-2 only) + tax schedule convert caption; no 1:1 rate default.",
+  "paths": [
+    "parts/05-notes/illustrative-currency-note1.md",
+    "parts/05-notes/illustrative-fx-policies.md"
+  ]
+}

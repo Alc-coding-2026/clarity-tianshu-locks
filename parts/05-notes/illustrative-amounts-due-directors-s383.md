@@ -64,30 +64,31 @@ Brackets = due to directors.
 
 ---
 
-## Variant A — Post-YE succession (Allen lock 2026-09-14)
+## Variant A — Post-YE succession (Allen lock 2026-10-17, supersedes 2026-09-14)
 
-**When:** All directors as at year end resigned, and new directors were appointed **after** the reporting date. Table still names the **YE-end** directors.
+**When:** All directors as at year end resigned, and new director(s) were appointed **after** the reporting date. Table still names the **YE-end** directors. **No dates** in this paragraph.
 
 Append after the base unsecured/interest-free sentence:
 
 ### English
 
 ```
-Subsequent to the reporting date, all the directors as at [YE DATE]
-resigned and new directors were appointed. The succeeding directors
-have agreed to assume responsibility for the outstanding balances and
-undertake not to demand repayment of the amounts due to the directors
-until the Company is financially capable to do so.
+Subsequent to the reporting date, all the then directors resigned and
+[NEW DIRECTOR NAME(S)] [was/were] appointed as director(s) of the
+Company. The newly appointed director(s) [has/have] accepted the
+outstanding balance of the amounts due from/(to) the directors and
+undertake(s) not to demand repayment of the amounts due to the
+directors until the Company is financially capable to do so.
 ```
 
-Use “due from” / “due to” to match the balance direction. If the balance is **due from** directors, omit or adapt the “not demand repayment” sentence as it applies to amounts **due to** directors.
+Use "due from" / "due to" to match the balance direction. If the balance is **due from** directors, omit or adapt the "not demand repayment" clause.
 
 ### 中文
 
 ```
-於報告日期後，於[年結日]在任之全體董事已辭任，並已委任新董事。
-繼任董事已同意承擔未償還結餘之責任，並承諾在本公司具備財務能力
-償還前，不會要求償還應付董事款項。
+於報告日期後，當時在任之全體董事已辭任，並委任[新董事姓名]為本公司
+董事。新委任董事已接納應收／（應付）董事款項之結餘，並承諾在本公司
+具備財務能力償還前，不會要求償還應付董事款項。
 ```
 
 ---

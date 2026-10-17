@@ -1,0 +1,11 @@
+{
+  "id": "2026-10-10-employee-benefits",
+  "locked_at": "2026-10-10",
+  "locked_by": "Allen Chan",
+  "via": "Employee benefits Note 2 policy EN+ZH: MPF retirement + short-term employee bene",
+  "decision": "Lock Note 2 employee benefits policy EN+ZH: MPF defined contribution + short-term employee benefits (legacy P-20260718-01).",
+  "paths": [
+    "parts/05-notes/illustrative-employee-benefits-policies.md"
+  ],
+  "legacy_file_field": "parts/05-notes/illustrative-employee-benefits-policies.md"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "2026-10-17-revenue-optional",
+  "locked_at": "2026-10-17",
+  "locked_by": "Allen Chan",
+  "via": "Audit/天書 chat t312u",
+  "decision": "Lock optional revenue policies: rental, royalties, commission/agency (agent net only).",
+  "paths": [
+    "parts/05-notes/illustrative-revenue-policies.md"
+  ]
+}

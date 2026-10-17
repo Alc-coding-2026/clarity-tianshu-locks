@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-02-bank-loans",
+  "locked_at": "2026-10-02",
+  "locked_by": "Allen Chan",
+  "via": "Audit/天書 chat t238u",
+  "decision": "Lock bank loans disclosure note (schedule / terms / security placeholders).",
+  "paths": [
+    "parts/05-notes/illustrative-bank-loans.md"
+  ],
+  "defaults": {
+    "omit_when_none": true,
+    "note_numbers": "[N] placeholders kept"
+  },
+  "not_included": [
+    "No invented finance-lease / other-borrowings face lines",
+    "Related-party dues stay on Notes 13/15"
+  ]
+}

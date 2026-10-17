@@ -1,0 +1,10 @@
+{
+  "id": "2026-10-17-ubo-internal-only",
+  "locked_at": "2026-10-17",
+  "locked_by": "Allen Chan",
+  "via": "Audit/天書 t296u–t297u + Pro/ Requirements",
+  "decision": "UBO / beneficial owner >25% AML field is INTERNAL portal info only. Never invent FS/DR/AR face or note wording; never write into AutoFS Word. Portal may store the field. Exception: representation letter (RL) if needed — only place UBO wording may appear (not 天書 FS invent).",
+  "paths": [],
+  "out_of_fs": true,
+  "rl_if_needed": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2026-10-17-sofp-signing-block",
+  "locked_at": "2026-10-17",
+  "locked_by": "Allen Chan",
+  "via": "Audit/天書 chat t303u",
+  "decision": "Lock Cap.622 s.387 SoFP signing block with separate Date of approval / 批准日期 line (QCAC/Budsilver house).",
+  "paths": [
+    "parts/04-fs/financial-position-draft.md"
+  ],
+  "defaults": {
+    "date_line": "Date of approval: [DATE] / 批准日期：[日期]",
+    "omit_date_in_sentence": true
+  }
+}

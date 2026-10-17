@@ -1,0 +1,10 @@
+{
+  "id": "2026-10-17-dormant-dr",
+  "locked_at": "2026-10-17",
+  "locked_by": "Allen Chan",
+  "via": "Audit/天書 chat t305u",
+  "decision": "Lock dormant Directors' Report; principal activities = Note 1 cross-ref only (no dormant/inactive wording in DR); Articles AA = forever all-directors retire line.",
+  "paths": [
+    "parts/02-dr/dormant-sme-shares-draft.md"
+  ]
+}
