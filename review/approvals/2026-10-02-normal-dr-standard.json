@@ -1,0 +1,47 @@
+{
+  "id": "2026-10-02-normal-dr-standard",
+  "locked_at": "2026-10-02",
+  "locked_by": "Allen Chan",
+  "via": "Audit/天書 chat",
+  "decision": "Lock and upgrade parts/02-dr/normal-sme-shares-draft.md as the house standard statutory directors’ report for the SME-FRS normal-company pack; keep parts/02-dr/standard.md as pack alias/pointer.",
+  "upgrade": {
+    "upgraded_at": "2026-10-02",
+    "reason": "Rewrite modular EN+ZH lock to match Allen’s two live common Clarity DR specimens pasted in chat.",
+    "specimen_A": "First period (earlier message): present their first report and the audited financial statements for period from [START] to [END]; PRINCIPAL ACTIVITIES AND PRINCIPAL PLACE OF BUSINESS → note 1; STATE OF AFFAIRS AND APPROPRIATIONS → annexed FS + nil final dividend; SHARE CAPITAL → note [N]; DIRECTORS list + Articles retirement/re-election; verified nils (indemnity / equity-linked / management); BUSINESS REVIEW exemption; AUDITOR audited by Clarity + AGM appointment resolution; On behalf of the Board / Director / Date.",
+    "specimen_B": "Normal year (this message): present their report and the audited financial statements for year ended [DATE]; same note-cross-ref sections; Articles do NOT provide mandatory retirement — existing directors continue; same verified nils + business review exemption; prior auditor resigned and Clarity appointed during year + AGM appointment resolution."
+  },
+  "paths": [
+    "parts/02-dr/normal-sme-shares-draft.md",
+    "parts/02-dr/standard.md",
+    "parts/02-directors-report.md",
+    "parts/packs/sme-normal-company.md",
+    "parts/coverage/index.md",
+    "parts/00-wiki-home.md",
+    "wiki/mkdocs.yml",
+    "wiki/page-sources.json"
+  ],
+  "modules": [
+    "Opening A first report (period) vs Opening B annual (year ended)",
+    "Articles A retirement/re-election vs Articles B no mandatory retirement / continue",
+    "Auditor A continuing re-appointment vs B resignation+appointment mid-year vs C first appointment",
+    "Dividend nil final (common) + positive branch",
+    "Verified-nil shells for indemnity / equity-linked / management",
+    "Cap.622 positive modules (shares/debentures/equity-linked/indemnity/management/s390(2)) as alternatives",
+    "Business review exemption shell",
+    "On behalf of the Board signature"
+  ],
+  "rationale": "Allen explicit 2026-10-02 upgrade: house standard DR must match both pasted live Clarity styles with placeholders and modular branches; retain Cap.622 positive modules when triggered.",
+  "not_included": [
+    "Public clarity-tianshu-locks repo not touched",
+    "Guarantee / consolidated / dormant / dereg paths remain separate (Case 4 dereg DR unchanged)",
+    "No client-specific facts locked; placeholders only"
+  ],
+  "zh_polish": "2026-10-02: ZH+EN aligned to Allen Specimens A/B; Allen approved ZH pack in chat (t219u).",
+  "note": "ZH polish after Allen asked prepare Chinese accordingly; Allen approved 2026-10-02.",
+  "zh_approved": {
+    "approved_at": "2026-10-02",
+    "approved_by": "Allen Chan",
+    "via": "Audit/天書 chat t219u",
+    "decision": "Approved Traditional Chinese editorial for upgraded standard DR (all 24 ZH modules aligned to Specimens A+B EN)."
+  }
+}
