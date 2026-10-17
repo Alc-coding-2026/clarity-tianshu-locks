@@ -101,9 +101,25 @@ No dividend was paid for the year and the directors do not propose a final divid
 | Balance as at [prior YE] | 於[上年度年結日]之結餘 | Yes |
 | Profit/(Loss) for the year | 本年度溢利／（虧損） | Yes |
 | Dividends paid | 已付股息 | Optional (cash paid) |
+| Issuance of ordinary shares | 發行普通股 | Optional (shares issued on incorporation; lock 2026-10-09) |
 | Allotment of ordinary shares | 配發普通股 | Optional (further issue) |
 | Capital reduction | 減少股本 | Optional (Cap.622) |
 | Balance as at [YE] | 於[年結日]之結餘 | Yes |
+
+---
+
+## Incorporation-period share row (Allen lock 2026-10-09)
+
+Relayed via AF/ Docx PM on 2026-10-09 (Foresee House YE2024 comparatives, incorporated 23 Oct 2021): Allen wants the share row at incorporation to read **Issuance of ordinary shares**, not "Subscribers' shares issued on incorporation". **Allen confirmed and locked EN + ZH on 2026-10-09.**
+
+| EN | 中文 | When |
+| --- | --- | --- |
+| Issuance of ordinary shares | 發行普通股 | Shares issued on incorporation, in the first (incorporation) period column or its comparative |
+| Allotment of ordinary shares | 配發普通股 | Locked 2026-09-19. Further / new issue after incorporation |
+
+- "Subscribers' shares issued on incorporation" is **not** a 天書 label. Do not use it in any period.
+- Legacy source (`legacy-source/05-Notes.md`) already uses "Issuance of ordinary shares" for the incorporation movement.
+- Earlier Budsilver face used "Issue of ordinary shares". Use "Issuance" going forward.
 
 ---
 

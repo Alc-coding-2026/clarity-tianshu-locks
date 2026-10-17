@@ -171,7 +171,8 @@ Then add **P1 or P2**. Unused-loss balance **increases**. State a cumulative HK$
 5. INCOME TAX EXPENSE
 
 No provision for Hong Kong Profits Tax has been made for the year as the
-assessable profits are fully offset by tax losses brought forward.
+assessable profits are fully offset by tax losses brought forward
+([PY]: same).
 ```
 
 ### 中文
@@ -180,10 +181,12 @@ assessable profits are fully offset by tax losses brought forward.
 5. 所得稅開支
 
 由於本年度之應課稅溢利已由承前稅項虧損全數抵銷，故並無就香港
-利得稅作出撥備。
+利得稅作出撥備（上年度：相同）。
 ```
 
 Then add **P1 or P2**. Unused-loss balance **decreases**. Full absorption of current profits does not mean all available losses are used up.
+
+**N3 comparative (Allen lock 2026-10-12):** When the prior year also had no provision for the same reason (assessable profits fully offset by tax losses brought forward), append `([PY]: same)` / `（上年度：相同）` to the N3 sentence. Do **not** use N2. Do **not** add an Inland Revenue "subject to agreement" sentence.
 
 ---
 

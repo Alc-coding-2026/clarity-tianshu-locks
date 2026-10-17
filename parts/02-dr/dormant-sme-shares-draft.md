@@ -1,6 +1,6 @@
 # 休眠公司董事報告（草稿） / Dormant-company directors’ report (DRAFT)
 
-**Status: DRAFT — pending Allen lock (2026-10-10).** EN + editorial 繁體中文. Chinese is **not** an official HKICPA / CR translation.
+**Status: LOCKED — Allen 2026-10-17** (principal activities = Note 1 cross-ref per Haoyi/QCAC faces; Articles AA = forever line). EN + editorial 繁體中文. Chinese is **not** an official HKICPA / CR translation.
 
 **Purpose:** Short house statutory directors’ report for **dormant / inactive** HKCO private companies limited by shares under the SME-FRS company-level pack (typical **first-year dormant** packs; also usable for a subsequent dormant year).
 
@@ -67,14 +67,14 @@ Default for first-year dormant packs (incorporation → first year-end). Prefer 
 
 ## Principal activities and principal place of business / 主要業務及主要營業地點
 
-**Dormant house wording** (QCAC inactive face style). Prefer this over a trading-activity description. Place of business may still cross-ref Note 1 where Note 1 carries the registered / business address.
+**LOCKED (Allen 2026-10-17):** cross-refer to Note 1 — do **not** describe the company as dormant / inactive in the DR (that description lives in Note 1 only). Matches Haoyi and QCAC faces.
 
 === "English"
 
     ```text
     PRINCIPAL ACTIVITIES AND PRINCIPAL PLACE OF BUSINESS
 
-    The Company was dormant and did not carry on any business during the [period / year]. The Company's principal place of business is set out in note 1 to the financial statements.
+    The Company's principal activities and principal place of business are set out in note 1 to the financial statements.
     ```
 
 === "繁體中文"
@@ -82,28 +82,8 @@ Default for first-year dormant packs (incorporation → first year-end). Prefer 
     ```text
     主要業務及主要營業地點
 
-    本公司於本[期間／年度]內處於休眠狀態，並無經營任何業務。本公司之主要營業地點載於財務報表附註1。
+    本公司之主要業務及主要營業地點載於財務報表附註1。
     ```
-
-**Alt (inactive, no Cap. 622 “dormant” label):** use only when the file describes the company as inactive but Cap. 622 dormant status is not asserted:
-
-=== "English"
-
-    ```text
-    PRINCIPAL ACTIVITIES AND PRINCIPAL PLACE OF BUSINESS
-
-    The Company was inactive and did not carry on any business during the [period / year]. The Company's principal place of business is set out in note 1 to the financial statements.
-    ```
-
-=== "繁體中文"
-
-    ```text
-    主要業務及主要營業地點
-
-    本公司於本[期間／年度]內並無活動，亦無經營任何業務。本公司之主要營業地點載於財務報表附註1。
-    ```
-
-Do **not** use investment-holding Note 1 Block C wording here — an investment-holding company is not a dormant shell.
 
 ---
 
@@ -415,6 +395,6 @@ Replace `[Firm]` with the engagement firm (live Clarity: `Clarity CPA & Co.`). C
 
 ??? note "Draft notes / 草稿說明"
 
-    **EN.** Assembled from the locked normal DR spine ([normal-sme-shares-draft.md](./normal-sme-shares-draft.md)) with dormant / inactive principal-activities wording aligned to the QCAC inactive face. Cap. 622 dormant-company audit / filing exemptions are **engagement facts** — this page does not decide whether a particular company qualifies as dormant or whether an audit is required. Framework full name stays on the QCAC house form; not reinvented here. **Not locked; do not push to public locks until Allen GO.**
+    **EN.** Assembled from the locked normal DR spine ([normal-sme-shares-draft.md](./normal-sme-shares-draft.md)) with dormant / inactive principal-activities wording aligned to the QCAC inactive face. Cap. 622 dormant-company audit / filing exemptions are **engagement facts** — this page does not decide whether a particular company qualifies as dormant or whether an audit is required. Framework full name stays on the QCAC house form; not reinvented here. **LOCKED by Allen 2026-10-17.** Articles AA uses the forever line (all directors retire…), including one-director companies.
 
     **中文。** 按已鎖定正常董事報告骨架縮短，主要業務改為休眠／無業務措辭（對齊 QCAC 無活動樣本）。是否屬《公司條例》休眠公司及是否須審計，屬個案事實，本頁不作斷定。待 Allen 鎖定後方可納入公開 locks。

@@ -6,7 +6,7 @@
 - **No** HKD / functional-currency sentence here — that lives in **Note 1** (live packs; locked illustrative Note 1 still uses softer “presented in [presentation currency]”; wiki Block A HKD/functional upgrade deferred).
 - Include this policy only when the Company has foreign-currency transactions or balances.
 - Scope: transaction-date rates · monetary items at year-end rates · exchange differences to income statement.
-- Non-monetary items / hedging / presentation-currency change: not locked here.
+- Non-monetary items / hedging: not locked here. Non-HKD / functional-change Note 1 wording: see [illustrative-currency-note1.md](./illustrative-currency-note1.md) (locked 2026-10-17).
 
 ---
 

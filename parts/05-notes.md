@@ -16,6 +16,13 @@ Maps to nav: 附注
 - [Notes 13 & 15 — Accounts and other receivables / payables](./05-notes/illustrative-accounts-receivables-payables.md) — locked 2026-09-14
 - [Note 11 — Amounts due from/(to) directors (s.383(1)(d))](./05-notes/illustrative-amounts-due-directors-s383.md) — locked 2026-09-14 (+ Variants A, C)
 - [Note 19 — Immediate / ultimate holding company](./05-notes/illustrative-holding-company.md) — locked 2026-09-19 (S1–S4 + jurisdiction list)
+- [Note 2 — Accounts receivables / payables policy](./05-notes/illustrative-core-policies.md) — locked 2026-10-02 (AR sample-book 1(k); AP editorial house)
+- [Investment disclosures (sub/asso/JV/equity)](./05-notes/illustrative-investments.md) — locked 2026-10-02 (INV-S/A/J/E; Equity investments caption; [N] placeholders)
+- [Cash and bank balances](./05-notes/illustrative-cash-bank.md) — locked 2026-10-02
+- [Inventories disclosure](./05-notes/illustrative-inventories.md) — locked 2026-10-02 (default INV-T; INV-D optional; omit when nil)
+- [Bank loans](./05-notes/illustrative-bank-loans.md) — locked 2026-10-02 (omit when none)
+- [Reserves / retained earnings](./05-notes/illustrative-reserves.md) — locked 2026-10-02 (omit when SOCIE presented)
+- [Commitments / contingencies / events / authorisation](./05-notes/illustrative-commitments-events.md) — locked 2026-10-02 (OL three-band P-20260619-01)
 
 ### Dereg / cessation (EN + 繁體中文)
 - [Note 2 break-up + SoFP face](./05-notes/illustrative-dereg-breakup-basis.md) — locked 2026-09-19
@@ -32,14 +39,14 @@ Maps to nav: 附注
 - [Share capital](./05-notes/illustrative-share-capital.md) — locked 2026-09-13
 
 ### Not in common pack
-- Note 4 after-charging — **omit as standard**
+- [Profit before tax / after-charging disclosures — out of pack](./05-notes/pbt-out-of-pack.md) — **LOCKED 2026-10-02**; house practice always omits. The [draft reference](./05-notes/illustrative-profit-disclosures.md) is optional only, not a pack requirement.
 
 - [Going concern Path A](./05-notes/illustrative-going-concern-path-a.md) — locked 2026-09-19 (shareholder + **parent/holding** variants)
 - [Fellow costs not recharged](./05-notes/illustrative-fellow-costs-not-recharged.md) — locked 2026-09-19 (HRise top-up)
 
-## Drafts still open
-- [Core policies (remaining)](./05-notes/illustrative-core-policies.md) — AR/AP policy draft
-- [Commitments / events](./05-notes/illustrative-commitments-events.md) — going-concern pack
+## Drafts still open / out-of-pack reference
+- [Note 2 — Employee benefits (short-term + MPF)](./05-notes/illustrative-employee-benefits-policies.md) — **DRAFT 2026-10-10** pending Allen lock (restored from legacy P-20260718-01)
+- [Profit disclosures / PBT after-charging](./05-notes/illustrative-profit-disclosures.md) — **DRAFT REFERENCE / OUT OF PACK** (PBT-A/C/N/L); optional only, not house mandatory or a pack requirement
 - [Non-consolidation placement](./05-notes/non-consolidation-placement.md) — Cap.622 map + locked full bases A/B/C/S (2026-09-27)
 
 ## Related FS

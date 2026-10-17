@@ -7,7 +7,8 @@
 - Common pack modules: **goods · services · interest · dividend**.
 - Interest: recognised **as it accrues** (simple SME).
 - Drop unused policy bullets when the related Note 3 row is dropped.
-- Optional later (not locked here): rental, royalties, commission/agency.
+- Optional modules (Allen lock 2026-10-17): **rental · royalties · commission/agency**.
+- Commission/agency: use only when the Company acts as agent (net commission), never gross as principal.
 
 ---
 
@@ -98,6 +99,74 @@ payment is established.
 ```
 
 ---
+
+
+---
+
+## Rental income / 租金收入
+
+**Allen lock 2026-10-17.**
+
+### English
+
+```
+Rental income
+
+Rental income under operating leases is recognised on a straight-line basis over the lease term.
+```
+
+### 中文
+
+```
+租金收入
+
+經營租賃之租金收入於租賃期內按直線法確認。
+```
+
+---
+
+## Royalty income / 特許權使用費收入
+
+**Allen lock 2026-10-17.**
+
+### English
+
+```
+Royalty income
+
+Royalty income is recognised on an accrual basis in accordance with the substance of the relevant agreement.
+```
+
+### 中文
+
+```
+特許權使用費收入
+
+特許權使用費收入按相關協議之實質內容以應計基準確認。
+```
+
+---
+
+## Commission income (agent) / 佣金收入（代理人）
+
+**Allen lock 2026-10-17.** Use only when the Company acts as an agent; recognise net commission, never gross sales.
+
+### English
+
+```
+Commission income
+
+Where the Company acts as an agent, commission income is recognised when the related services are rendered, at the net amount of commission earned by the Company.
+```
+
+### 中文
+
+```
+佣金收入
+
+倘本公司以代理人身份行事，佣金收入於提供相關服務時按本公司賺取之佣金淨額確認。
+```
+
 
 ## Related
 
