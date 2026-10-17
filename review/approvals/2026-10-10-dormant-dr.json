@@ -2,5 +2,8 @@
   "date": "2026-10-10",
   "approver": "allen",
   "file": "parts/02-dr/dormant-sme-shares-draft.md",
+  "paths": [
+    "parts/02-dr/dormant-sme-shares-draft.md"
+  ],
   "scope": "Dormant company directors report EN+ZH"
 }

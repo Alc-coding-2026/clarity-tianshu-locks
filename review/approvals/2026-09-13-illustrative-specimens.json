@@ -5,6 +5,16 @@
   "scope": "Eight newly published bilingual specimens (English and Traditional Chinese), as presented in preceding delivery",
   "source_commit": "3b7bde69783777b84284b6f70a7bd4582c1673d5",
   "boundary": "Wording approval only; does not approve missing sections, every profile, individual client applicability, or unrelated tax/non-consolidation drafts. Existing approved wording blocks and tables unchanged.",
+  "paths": [
+    "parts/01-shared/front-matter-draft.md",
+    "parts/04-fs/financial-position-draft.md",
+    "parts/04-fs/income-statement-draft.md",
+    "parts/05-notes/illustrative-basis-policies.md",
+    "parts/05-notes/illustrative-general-information.md",
+    "parts/05-notes/illustrative-ppe.md",
+    "parts/05-notes/illustrative-related-parties.md",
+    "parts/05-notes/illustrative-share-capital.md"
+  ],
   "files": [
     {
       "path": "parts/01-shared/front-matter-draft.md",

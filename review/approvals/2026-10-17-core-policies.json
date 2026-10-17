@@ -1,0 +1,9 @@
+{
+  "id": "2026-10-17-core-policies",
+  "locked_at": "2026-10-17",
+  "locked_by": "Allen Chan",
+  "decision": "Note 2 core policies page is locked (employee-benefits stigma already fixed earlier; this unlocks the assembly page for the portal).",
+  "paths": [
+    "parts/05-notes/illustrative-core-policies.md"
+  ]
+}

@@ -2,5 +2,9 @@
   "date": "2026-10-12",
   "approver": "allen",
   "file": "parts/02-dr/",
+  "paths": [
+    "parts/02-dr/normal-sme-shares-draft.md",
+    "parts/02-dr/dormant-sme-shares-draft.md"
+  ],
   "scope": "Model Articles: continue in office = Art.20(2); Art.10 is quorum only. Wrong article on DR = hard fail. Relayed via AF/ Allen AutoFS for Ho's Wellness."
 }

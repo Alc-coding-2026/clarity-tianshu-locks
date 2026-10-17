@@ -2,5 +2,8 @@
   "date": "2026-10-10",
   "approver": "allen",
   "file": "parts/04-fs/financial-position-draft.md",
+  "paths": [
+    "parts/04-fs/financial-position-draft.md"
+  ],
   "scope": "Cap.622 s.387 SoFP signing block EN+ZH Path 1D/2D"
 }

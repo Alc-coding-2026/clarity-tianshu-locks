@@ -2,5 +2,9 @@
   "date": "2026-10-17",
   "approver": "allen",
   "file": "parts/02-dr/",
+  "paths": [
+    "parts/02-dr/normal-sme-shares-draft.md",
+    "parts/02-dr/dormant-sme-shares-draft.md"
+  ],
   "scope": "When Articles/AA unknown, default Articles AA exact all-directors retire/re-elect line; no case-specific AA required; Art.20(2) auditor continue ≠ director retirement. Relayed via Chief of Staff."
 }

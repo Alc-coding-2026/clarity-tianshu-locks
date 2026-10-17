@@ -2,5 +2,9 @@
   "date": "2026-10-12",
   "approver": "allen",
   "file": "parts/05-notes/illustrative-employee-benefits-policies.md",
+  "paths": [
+    "parts/05-notes/illustrative-employee-benefits-policies.md",
+    "parts/05-notes/illustrative-core-policies.md"
+  ],
   "scope": "Bold Note 2 policy headings; letter sequential among live policies; EB one heading (usually 2(d)) covering STEB+MPF."
 }

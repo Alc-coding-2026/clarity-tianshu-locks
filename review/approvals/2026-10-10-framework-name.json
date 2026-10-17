@@ -2,5 +2,8 @@
   "date": "2026-10-10",
   "approver": "allen",
   "file": "parts/00-house/framework-name.md",
+  "paths": [
+    "parts/00-house/framework-name.md"
+  ],
   "scope": "Firm framework name EN+ZH for FS/AR/EL/RL — QCAC house SME-FRS form; not APM 2024 marketing title."
 }

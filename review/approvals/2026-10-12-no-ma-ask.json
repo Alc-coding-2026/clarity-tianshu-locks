@@ -2,5 +2,9 @@
   "date": "2026-10-12",
   "approver": "allen",
   "file": "parts/02-dr/",
+  "paths": [
+    "parts/02-dr/normal-sme-shares-draft.md",
+    "parts/02-dr/dormant-sme-shares-draft.md"
+  ],
   "scope": "No M&A → ask; do not assume/quote article. Continue-in-office cite = 20(2) only."
 }
