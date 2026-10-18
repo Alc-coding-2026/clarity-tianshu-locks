@@ -205,6 +205,16 @@ List everyone who served during the reporting interval **or** between period/yea
 
 須列出報告期間內或由期間／年結日至報告日期任職的每位董事（包括已離任者）；不得虛構委任日期。
 
+**Allen lock 2026-10-18 — all directors resigned, new director appointed after year end / 全體董事辭任、新董事於年結日後委任**
+
+All directors resigned, new director appointed after year end: list each director who served during the year with (resigned on [DATE]) (plus (appointed on [DATE]) if appointed in the year), then the new director with (appointed on [DATE]) even though after year end. No separate post-year-end heading. Only the director in office on the report date signs. Retirement line: the locked Articles AA line unchanged ("all directors" covers a sole post-YE director); Articles B unchanged if B applies. No named-director variant.
+
+Example list: [DIRECTOR A] (resigned on [DATE]) / [DIRECTOR B] (appointed on [DATE]) (resigned on [DATE]) / [DIRECTOR C] (appointed on [DATE])
+
+**中文。** 全體董事辭任，新董事於年結日後委任：列出年內任職的每位董事，並加註（於[日期]辭任）（如於年內委任，另加（於[日期]委任）），然後列出新董事並加註（於[日期]委任），即使該委任在年結日之後。不得另設年結日後標題。僅於報告日期在任的董事簽署。退任句：已鎖定的章程分支 AA 句子維持不變（「全體董事」涵蓋年結日後的唯一董事）；如適用章程分支 B，B 維持不變。不得使用具名董事變體。
+
+示例名單：[董事甲]（於[日期]辭任） / [董事乙]（於[日期]委任）（於[日期]辭任） / [董事丙]（於[日期]委任）
+
 ### Articles AA — all-directors retirement / re-election (alias Articles A) / 章程分支 AA：全體董事退任及膺選連任
 
 **Forever house name: Articles AA** (alias Articles A). **Allen lock 2026-10-16 (all cases):** when the M&A **has director retirement** / rotation, use **Articles AA** and the exact sentence below (no named-director placeholders). That includes **Cap. 32 + Table A** (or other pre-622H articles) that provide director retirement / rotation — those packs are **Articles AA**, not Articles B and not Art. 20(2).
