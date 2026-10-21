@@ -21,7 +21,7 @@ HKICPA SME-FRF & SME-FRS **Appendix 2 / 3** contains **no** directors’ report 
 
 1. Choose **Opening A or B**.
 2. Keep shared note-cross-ref sections (principal activities / state of affairs / share capital).
-3. Choose **Articles** branch (**AA**, alias A — all-directors retirement/re-election **or** **B** — no mandatory retirement / continue). When Articles / AA are **unknown**, default **Articles AA** and exactly: “In accordance with the Company's Articles of Association, all directors retire and, being eligible, offer themselves for re-election.” (Allen lock 2026-10-17). Do not fall back to Articles B / Art. 20(2).
+3. **AutoFS / house DEFAULT for ALL cases = Articles AA** (alias A). Exact EN: “In accordance with the Company's Articles of Association, all directors retire and, being eligible, offer themselves for re-election.” Exact ZH: 「按照本公司組織章程細則，全體董事退任，並合資格願意膺選連任。」 (**Allen LOCK 2026-10-19 via CoS**). Articles unknown is no longer a special gate. AutoFS must **not** choose Articles B from Art. 20(2) or because no mandatory retirement is verified. **AutoFS always uses AA.** Articles B is a non-default manual override only if Allen explicitly selects B for a verified no-retirement M&A. Art. 20(2) continue-in-office is never a substitute for director retirement.
 4. Choose **Dividend** branch (nil final — common **or** positive recommendation).
 5. Keep the three **verified-nil** shells only after verification; otherwise swap in Cap. 622 **positive** modules.
 6. Keep **business review exemption** only where reporting exemption is verified.
@@ -29,7 +29,7 @@ HKICPA SME-FRF & SME-FRS **Appendix 2 / 3** contains **no** directors’ report 
 8. End with **On behalf of the Board** signature block.
 9. Replace every placeholder; omit only after checking the trigger. An uncompleted bracket is a preparation gap, not a nil fact.
 
-先選開首 A／B → 保留附註交叉引用段 → 選章程分支 → 選股息分支 → 核實後才用「概無」殼或改用正面模組 → 業務審視豁免 → 選核數師分支 → 董事會代表簽署。未填欄位不代表「無」。
+先選開首 A／B → 保留附註交叉引用段 → AutoFS 章程預設一律 AA（Allen 2026-10-19；章程不明不再是特別閘門；B 僅 Allen 明確選用）→ 選股息分支 → 核實後才用「概無」殼或改用正面模組 → 業務審視豁免 → 選核數師分支 → 董事會代表簽署。未填欄位不代表「無」。
 
 ---
 
@@ -207,19 +207,19 @@ List everyone who served during the reporting interval **or** between period/yea
 
 **Allen lock 2026-10-18 — all directors resigned, new director appointed after year end / 全體董事辭任、新董事於年結日後委任**
 
-All directors resigned, new director appointed after year end: list each director who served during the year with (resigned on [DATE]) (plus (appointed on [DATE]) if appointed in the year), then the new director with (appointed on [DATE]) even though after year end. No separate post-year-end heading. Only the director in office on the report date signs. Retirement line: the locked Articles AA line unchanged ("all directors" covers a sole post-YE director); Articles B unchanged if B applies. No named-director variant.
+All directors resigned, new director appointed after year end: list each director who served during the year with (resigned on [DATE]) (plus (appointed on [DATE]) if appointed in the year), then the new director with (appointed on [DATE]) even though after year end. No separate post-year-end heading. Only the director in office on the report date signs. Retirement line: AutoFS default for all cases = Articles AA (Allen 2026-10-19); Articles unknown is no longer a special gate. The locked Articles AA line is unchanged ("all directors" covers a sole post-YE director). Articles B specimen is unchanged only if Allen explicitly selected B; AutoFS must not choose B. No named-director variant.
 
 Example list: [DIRECTOR A] (resigned on [DATE]) / [DIRECTOR B] (appointed on [DATE]) (resigned on [DATE]) / [DIRECTOR C] (appointed on [DATE])
 
-**中文。** 全體董事辭任，新董事於年結日後委任：列出年內任職的每位董事，並加註（於[日期]辭任）（如於年內委任，另加（於[日期]委任）），然後列出新董事並加註（於[日期]委任），即使該委任在年結日之後。不得另設年結日後標題。僅於報告日期在任的董事簽署。退任句：已鎖定的章程分支 AA 句子維持不變（「全體董事」涵蓋年結日後的唯一董事）；如適用章程分支 B，B 維持不變。不得使用具名董事變體。
+**中文。** 全體董事辭任，新董事於年結日後委任：列出年內任職的每位董事，並加註（於[日期]辭任）（如於年內委任，另加（於[日期]委任）），然後列出新董事並加註（於[日期]委任），即使該委任在年結日之後。不得另設年結日後標題。僅於報告日期在任的董事簽署。退任句：AutoFS 對所有個案預設章程分支 AA（Allen 2026-10-19）；章程不明不再是特別閘門。已鎖定的 AA 句子維持不變（「全體董事」涵蓋年結日後的唯一董事）。章程分支 B 僅在 Allen 明確選用時維持不變；AutoFS 不得選 B。不得使用具名董事變體。
 
 示例名單：[董事甲]（於[日期]辭任） / [董事乙]（於[日期]委任）（於[日期]辭任） / [董事丙]（於[日期]委任）
 
 ### Articles AA — all-directors retirement / re-election (alias Articles A) / 章程分支 AA：全體董事退任及膺選連任
 
-**Forever house name: Articles AA** (alias Articles A). **Allen lock 2026-10-16 (all cases):** when the M&A **has director retirement** / rotation, use **Articles AA** and the exact sentence below (no named-director placeholders). That includes **Cap. 32 + Table A** (or other pre-622H articles) that provide director retirement / rotation — those packs are **Articles AA**, not Articles B and not Art. 20(2).
+**Forever house name: Articles AA** (alias Articles A). **Allen LOCK 2026-10-19 via CoS — AutoFS default for all cases = Articles AA.** For **ALL** AutoFS cases the house default is **Articles AA** and the exact sentences below (no named-director placeholders; no case-specific AA). Exact EN: “In accordance with the Company's Articles of Association, all directors retire and, being eligible, offer themselves for re-election.” Exact ZH: 「按照本公司組織章程細則，全體董事退任，並合資格願意膺選連任。」 This overrides the 2026-10-17 rule that defaulted to AA only when Articles / AA were unknown, and overrides the rule that AutoFS should pick Articles B when Art. 20(2) or no mandatory retirement is verified. **Articles unknown is no longer a special gate.** AutoFS must **not** choose Articles B from Art. 20(2). **AutoFS always uses AA.** Art. 20(2) continue-in-office is **never** a substitute for director retirement. Never cite 20(2) as auditor continue. Cap. 32 + Table A ≠ Art. 20(2) remains as locked 2026-10-16.
 
-**Allen lock 2026-10-17 (forever-correct):** When Articles / AA are **unknown** (no M&A on file, or the retirement rule is not verified), **default to Articles AA** and the exact generic sentences already shown below. Use exactly this English line (no case-specific AA required): “In accordance with the Company's Articles of Association, all directors retire and, being eligible, offer themselves for re-election.” ZH already locked alongside: 「按照本公司組織章程細則，全體董事退任，並合資格願意膺選連任。」 Do **not** require case-specific AA wording or named-director variants. Do **not** fall back to Articles B / Art. 20(2) when Articles are unknown. Art. 20(2) continue-in-office is **never** a substitute for director retirement (auditor continue-in-office is never that substitute); cite 20(2) only when Cap. 622H Model Articles with 20(2) are verified on file (unchanged). Cap. 32 + Table A ≠ Art. 20(2) remains as locked 2026-10-16.
+**Allen lock 2026-10-16 (Cap. 32 note retained; not an AutoFS branch selector):** **Cap. 32 + Table A** (or other pre-622H articles) that provide director retirement / rotation are **Articles AA**, not Articles B and not Art. 20(2). That note does not limit AA to retirement packs. AutoFS still uses AA when retirement is absent (Allen 2026-10-19).
 
 === "English"
 
@@ -233,13 +233,15 @@ Example list: [DIRECTOR A] (resigned on [DATE]) / [DIRECTOR B] (appointed on [DA
     按照本公司組織章程細則，全體董事退任，並合資格願意膺選連任。
     ```
 
-### Articles B — no mandatory retirement / continue in office / 章程分支 B：並無強制退任／繼續留任
+### Articles B — no mandatory retirement / continue in office (non-default; manual override only) / 章程分支 B：並無強制退任／繼續留任（非預設；僅人手覆寫）
 
-**Directors continue-in-office (not auditors) — Allen locks 2026-10-12 and 2026-10-16:** Art. **20(2)** is **directors** continue in office / unlimited period under **Cap. 622H Schedule 2 Model Articles**. It is **not** an auditor clause. Cite **20(2) only when Cap. 622H-style Model Articles that contain Art. 20(2) are verified on file**. **Article 10** is directors’ meeting quorum only — never cite Art. 10 for appointment or continuance. Wrong article on DR = hard fail. Prefer Articles B wording (no mandatory retirement / continue) without article numbers unless the face must cite; if citing continue-in-office, **20(2) only**. **Unknown Articles / unknown AA (no M&A on file, or the retirement rule is not verified) → default Articles AA** (Allen lock 2026-10-17; generic forever line: “In accordance with the Company's Articles of Association, all directors retire and, being eligible, offer themselves for re-election.”). Do not ask Allen. Do not assume Model Articles or Art. 20(2). **Never assume Model Articles or quote Art. 20(2) without verification.**
+**Non-default / manual override only — Allen LOCK 2026-10-19 via CoS.** The specimen text below stays available **only if Allen explicitly selects Articles B** for a verified no-retirement M&A. **AutoFS must NOT choose B from Art. 20(2).** **AutoFS always uses Articles AA.** AutoFS default for all cases = Articles AA (Allen 2026-10-19); Articles unknown is no longer a special gate.
 
-**Cap. 32 + Table A ≠ Art. 20(2) (Allen lock 2026-10-16, all cases):** Cap. 32 + Table A (or other pre-622H articles) with no Art. 20(2) — including when there is “no auditor clause” — is **not** Art. 20(2). Never cite Art. 20(2) on those packs. If those M&A provide director retirement / rotation → **Articles AA**, not Articles B / 20(2).
+**Directors continue-in-office (not auditors) — Allen locks 2026-10-12 and 2026-10-16 (citation notes retained):** Art. **20(2)** is **directors** continue in office / unlimited period under **Cap. 622H Schedule 2 Model Articles**. It is **not** an auditor clause. **Never cite 20(2) as auditor continue.** Cite **20(2) only when Cap. 622H-style Model Articles that contain Art. 20(2) are verified on file**. That verification does not authorise AutoFS to select Articles B. **Article 10** is directors’ meeting quorum only — never cite Art. 10 for appointment or continuance. Wrong article on DR = hard fail. If Allen has explicitly selected Articles B and the face must cite continue-in-office, cite **20(2) only**. Do not assume Model Articles or Art. 20(2). **Never assume Model Articles or quote Art. 20(2) without verification.** Art. 20(2) continue-in-office is **never** a substitute for director retirement.
 
-Specimen B / common Clarity live branch — use when the Articles do **not** provide for retirement and rotation.
+**Cap. 32 + Table A ≠ Art. 20(2) (Allen lock 2026-10-16, all cases):** Cap. 32 + Table A (or other pre-622H articles) with no Art. 20(2) — including when there is “no auditor clause” — is **not** Art. 20(2). Never cite Art. 20(2) on those packs. If those M&A provide director retirement / rotation → **Articles AA**, not Articles B / 20(2). Verified absence of mandatory retirement also does not send AutoFS to Articles B; AutoFS always uses AA (Allen 2026-10-19).
+
+Specimen text only (non-default manual override). AutoFS uses the Articles AA line. Apply this specimen only when Allen has explicitly selected B for a verified no-retirement M&A.
 
 === "English"
 
@@ -563,7 +565,7 @@ Fact-specific; no automatic nil assertion.
 | Principal activities & place of business | Note 1 cross-ref (shared) |
 | State of affairs & appropriations | Annexed FS cross-ref + **nil final** (common) / **positive** dividend |
 | Share capital | Note [N] cross-ref (+ s5 positive module if issued) |
-| Directors | List + Articles **AA** (alias **A**) retire/re-elect · **B** no mandatory retirement / continue |
+| Directors | List + AutoFS default for all cases = Articles **AA** (Allen 2026-10-19; alias **A**; exact all-directors retire / re-elect line). Articles unknown is no longer a special gate. Articles **B** = non-default manual override only if Allen explicitly selects B |
 | Indemnity / equity-linked / management | Verified-nil shells **or** Cap. 622 positive modules |
 | Business review | Reporting-exemption shell |
 | Auditor | **A** continuing re-appointment · **B** resignation + mid-year appointment · **C** first appointment |
@@ -579,7 +581,7 @@ Fact-specific; no automatic nil assertion.
     | Principal activities; place of business / 主要業務及地點 | Statutory: Cap. 622 s390(1). House style cross-ref Note 1 only. / 法定；實務只交叉引用附註1。 |
     | State of affairs; dividend / 業務狀況；股息 | House annexed-FS cross-ref + Cap. 622D s7 dividend (nil final common; positive branch available). / 隨附報表交叉引用 + 第7條股息。 |
     | Share capital / 股本 | House note cross-ref; Cap. 622D s5 positive module when shares issued. / 附註交叉引用；有發行時用第5條正面模組。 |
-    | Directors; Articles / 董事；章程 | Statutory director list s390(1). Articles retirement wording is **house conventional**. Unknown Articles / AA → default Articles AA (exact all-directors retire / re-elect line). Verified Articles → select AA or B from the actual Articles. / 董事名單法定；章程不明時預設章程分支 AA（全體董事退任及膺選連任）；已核實章程則按實際章程選 AA 或 B。 |
+    | Directors; Articles / 董事；章程 | Statutory director list s390(1). Articles retirement wording is **house conventional**. AutoFS default for all cases = Articles AA (Allen 2026-10-19); Articles unknown is no longer a special gate. Exact all-directors retire / re-elect line. Articles B is a non-default manual override only if Allen explicitly selects B; AutoFS must not choose B from Art. 20(2). / 董事名單法定；AutoFS 對所有個案預設章程分支 AA（Allen 2026-10-19）；章程不明不再是特別閘門。章程分支 B 僅在 Allen 明確選用時作人手覆寫；AutoFS 不得因第20(2)條而選 B。 |
     | Indemnity; equity-linked; management / 彌償；股票掛鈎；管理合約 | Cap. 622D ss6, 9; Cap. 622 s543. Verified-nil shells match common Clarity live reports; replace with positive modules when triggered. / 「概無」殼僅於核實後；觸發則改用正面模組。 |
     | Business review / 業務審視 | Exempt within verified reporting-exemption profile: Cap. 622 s388(3)(a). / 已核實提交報告豁免時適用。 |
     | Auditor AGM resolution / 核數師決議 | House conventional (appointment / re-appointment / mid-year change). Not Cap. 622D core content; select from engagement facts. Dereg path remains Case 4 (no further appointment). / 實務慣用段落；撤銷登記仍用 Case 4。 |
@@ -593,9 +595,9 @@ Fact-specific; no automatic nil assertion.
 **Upgrade (same date, Allen pastes):** rewrite to modular house style matching:
 
 1. **Specimen A — first period (earlier message):** “present their **first** report and the audited financial statements” for period from [START] to [END]; principal activities & place of business → note 1; state of affairs & appropriations → annexed FS + nil final dividend; share capital → note [N]; directors list + Articles retirement/re-election; verified nils (indemnity / equity-linked / management); business review exemption; auditor audited by Clarity + AGM appointment resolution; On behalf of the Board / Director / Date.
-2. **Specimen B — normal year (this message):** “present their report and the audited financial statements” for year ended [DATE]; same note-cross-ref sections; Articles do **not** provide mandatory retirement — existing directors continue; same verified nils + business review exemption; prior auditor resigned and Clarity appointed during year + AGM appointment resolution.
+2. **Specimen B — normal year (this message):** “present their report and the audited financial statements” for year ended [DATE]; same note-cross-ref sections; Articles do **not** provide mandatory retirement — existing directors continue; same verified nils + business review exemption; prior auditor resigned and Clarity appointed during year + AGM appointment resolution. That 2026-10-02 continue wording is the Articles B specimen only. It is not the AutoFS default (**Allen LOCK 2026-10-19:** AutoFS always uses Articles AA).
 
-Accepted modular outcomes: Opening A/B; Articles AA (alias A)/B; Auditor A/B/C; Dividend nil-final (common) + positive; Cap. 622 positive modules retained as alternatives to verified-nil shells. Public locks pack **not** updated. Articles AA exact all-directors sentence and Cap. 32 ≠ Art. 20(2) are the 2026-10-16 lock (see Articles AA / B above). When Articles / AA are unknown, default Articles AA and that same exact English line (Allen lock 2026-10-17).
+Accepted modular outcomes: Opening A/B; Articles AA (alias A) as the AutoFS default for all cases, with Articles B only as a non-default manual override if Allen explicitly selects B; Auditor A/B/C; Dividend nil-final (common) + positive; Cap. 622 positive modules retained as alternatives to verified-nil shells. Public locks pack **not** updated. Articles AA exact all-directors sentence and Cap. 32 ≠ Art. 20(2) are the 2026-10-16 lock (see Articles AA / B above). AutoFS default for all cases = Articles AA (Allen 2026-10-19); Articles unknown is no longer a special gate.
 
 ---
 
@@ -603,4 +605,4 @@ Accepted modular outcomes: Opening A/B; Articles AA (alias A)/B; Auditor A/B/C; 
 
 Legal baseline verified on 13 September 2026 against [Cap. 622D](https://www.elegislation.gov.hk/hk/cap622D) (version 23 May 2025) and [Cap. 622](https://www.elegislation.gov.hk/hk/cap622) ss388, 390, 391 and 543; see [detailed provenance](../review/normal-dr-provenance.md). House wording upgraded 2026-10-02 from Allen’s two live Clarity specimen pastes.
 
-This is a locked conditional specimen, not a finding that a particular company qualifies or that its completed report is compliant. No company facts, approval, signature, dividend decision or absence of transactions have been verified for any engagement. Apply only after verifying reporting-exemption eligibility, auditor history and actual facts for the year/period. When Articles / AA are unknown, default Articles AA (Allen lock 2026-10-17).
+This is a locked conditional specimen, not a finding that a particular company qualifies or that its completed report is compliant. No company facts, approval, signature, dividend decision or absence of transactions have been verified for any engagement. Apply only after verifying reporting-exemption eligibility, auditor history and actual facts for the year/period. AutoFS default for all cases = Articles AA (Allen 2026-10-19); Articles unknown is no longer a special gate.

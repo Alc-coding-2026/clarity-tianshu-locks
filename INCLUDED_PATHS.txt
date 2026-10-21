@@ -89,4 +89,5 @@ review/approvals/2026-10-17-sofp-signing-block.md
 review/approvals/2026-10-17-tab1-seeds.json
 review/approvals/2026-10-17-ubo-internal-only.json
 review/approvals/2026-10-18-dr-all-resigned-new-director-post-ye.json
+review/approvals/2026-10-19-autofs-forever-aa-default.json
 review/approvals/2026-10-19-socie-two-years.json
