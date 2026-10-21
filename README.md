@@ -7,8 +7,8 @@
 | | |
 | --- | --- |
 | Working bible (private) | [`Alc-coding-2026/clarity-tianshu`](https://github.com/Alc-coding-2026/clarity-tianshu) |
-| Pinned source commit | `8985eb3adb74dc0fa9c22276d5e2534a787ce0c7` |
-| Published | 2026-10-21T13:14:07+08:00
+| Pinned source commit | `b3808cc15fb941994cf22d8dc2bfd2402a6f1264` |
+| Published | 2026-10-22T03:34:23+08:00
 
 Agents and staff with GitHub access should still prefer the **private** working bible for drafts and findings. This pack is the **agreed snapshot** anyone with the link can read.
 

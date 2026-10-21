@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-22",
+  "approver": "allen",
+  "locked_by": "Allen",
+  "via": "Chief of Staff (CoS) 22 Oct 2026 — Allen LOCKED: treat QO matrix as locked; file the missing approval record now",
+  "paths": [
+    "parts/99-appendices/qo-matrix.md"
+  ],
+  "scope": "QO decision matrix (S.407 on/off routing for A / A-369-only / A-records-only / D-1; mid-life catch-up includes s.407 OM). Page text already cited Allen lock; this JSON is the missing approval record only. Does not invent new matrix rows (no QO-B row added here — see proposed QO-B s.407 rule).",
+  "decision": "The matrix at parts/99-appendices/qo-matrix.md is locked as cited. Treat as already_locked for P11 / engagement-app routing."
+}
