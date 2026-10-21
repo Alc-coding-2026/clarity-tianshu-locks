@@ -42,6 +42,10 @@ parts/05-notes/illustrative-revenue-policies.md
 parts/05-notes/illustrative-revenue.md
 parts/05-notes/illustrative-share-capital.md
 parts/05-notes/non-consolidation-placement.md
+parts/05-notes/restatement-case-picker-draft.md
+parts/05-notes/restatement-dues-wht-overdividend-draft.md
+parts/05-notes/restatement-sales-cos-misclass-draft.md
+parts/05-notes/restatement-unpaid-prc-sub-capital-draft.md
 parts/06-dereg.md
 parts/99-appendices/qo-matrix.md
 review/approvals/2026-09-13-illustrative-specimens.json
@@ -94,3 +98,4 @@ review/approvals/2026-10-19-autofs-forever-aa-default.json
 review/approvals/2026-10-19-socie-two-years.json
 review/approvals/2026-10-22-qo-inventory-take.json
 review/approvals/2026-10-22-qo-matrix.json
+review/approvals/2026-10-22-restatement-cases.json
