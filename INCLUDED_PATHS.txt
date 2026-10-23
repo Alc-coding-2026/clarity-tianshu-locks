@@ -101,3 +101,4 @@ review/approvals/2026-10-22-qo-matrix.json
 review/approvals/2026-10-22-restatement-cases.json
 review/approvals/2026-10-23-gc-path-a-net-liabilities-date-forms.json
 review/approvals/2026-10-23-note5-omit-nil-payable-statement.json
+review/approvals/2026-10-24-case4-dereg-auditor-resign-combine.json

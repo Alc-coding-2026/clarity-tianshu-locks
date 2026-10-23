@@ -7,7 +7,7 @@
 - **First-period from incorporation:** use Opening A (首份 / from incorporation).
 - **Mid-life cessation:** use Opening B — actual period start; do **not** say “first report” / from incorporation unless facts match.
 - Directors: list names only; **do not invent** appoint dates; **do not** add “no director was appointed during the period.”
-- Auditor: **omit** AGM / further-appointment resolution; keep only “will not be proposed.”
+- Auditor: **omit** AGM / further-appointment resolution; keep only “will not be proposed.” Default block = no mid-period resign. Combine branch = prior auditor resigned and [Firm] appointed (two paragraphs; no audited-by sentence). Do **not** use normal Auditor B.
 - Break-up detail stays in **Note 2** — DR only cross-refers.
 
 ---
@@ -111,6 +111,10 @@ there will be no future appointments of directors.
 
 ## Auditor
 
+Default when the auditor did not resign during the period. Deregistration omits any AGM / further-appointment resolution. If the prior auditor resigned and [Firm] was appointed during the period, use the combine branch — not normal Auditor B in [normal-sme-shares-draft.md](./normal-sme-shares-draft.md) (that branch proposes an AGM appointment resolution and is wrong for dereg).
+
+### Auditor — default (no mid-period resign)
+
 ### English
 
 ```
@@ -131,6 +135,26 @@ preparation for its deregistration.
 本董事報告為本公司就擬申請撤銷登記而編製之最後一份董事報告。
 ```
 
+### Auditor — prior resigned; firm appointed (dereg combine)
+
+**Allen LOCK 2026-10-24.** Awaiting MERGE GO via CoS. Two paragraphs, blank line between them. Do not add “The financial statements have been audited by [Firm].” / 「本財務報表已由[事務所]審核。」 Do not add an AGM appointment or reappointment resolution.
+
+### English
+
+```
+During the [period / year], [PRIOR AUDITOR] resigned and [Firm] was appointed as the auditor of the Company. Given the Company's planned deregistration, no resolution for the reappointment of auditors will be proposed.
+
+This represents the final Directors' Report of the Company in preparation for its deregistration.
+```
+
+### 中文
+
+```
+於本[期間／年度]內，[前任核數師]辭任，[事務所]獲委任為本公司核數師。由於本公司擬申請撤銷登記，將不會提呈續聘核數師之決議案。
+
+本董事報告為本公司就擬申請撤銷登記而編製之最後一份董事報告。
+```
+
 ---
 
 ## Related
@@ -138,3 +162,4 @@ preparation for its deregistration.
 - Note 2 break-up: [../05-notes/illustrative-dereg-breakup-basis.md](../05-notes/illustrative-dereg-breakup-basis.md)
 - Pack index: [../06-dereg.md](../06-dereg.md)
 - AR dereg period: [../03-ar/dereg.md](../03-ar/dereg.md)
+- Normal Auditor B (do not use on this dereg path): [normal-sme-shares-draft.md](./normal-sme-shares-draft.md)
