@@ -2,11 +2,13 @@
 
 **Allen lock 2026-09-19.** Sufficient situations · EN + 繁體中文. Working bible specimen.
 
+**Allen lock 2026-10-23.** When Hong Kong Profits Tax **payable is truly nil**, the payable statement (**P2**) may be omitted. Do not force writing P2.
+
 **Rules**
 - **Text if no provision**; **short table + rate + year-specific reduction + payable** if there is a charge. Both accepted.
 - Always consider **tax rate**, **that year’s profits-tax reduction**, and **tax payable** at year end.
 - Corporate default rate: **8.25%** on the first HK$2,000,000 of estimated assessable profits and **16.5%** on the remainder. Use a single **16.5%** sentence only when that is what the computation applied.
-- **Nil expense ≠ nil payable** (provisional tax, prior year, payments on account).
+- **Nil expense ≠ nil payable** (provisional tax, prior year, payments on account). Omit the payable sentence only when payable is actually nil. If provisional tax, a prior year, or payments on account leave a balance, use **P1** (C1 already includes a payable line).
 - Do **not** mix: N1 ≠ N2; N3 unused-loss **decreases**; N2 unused-loss **increases**. No cumulative unused-loss HK$ figure unless a schedule supports it.
 - Long tax-reconciliation table: omit unless the case needs it.
 - Overseas tax / deferred tax: out of this common SME pack unless separately locked.
@@ -18,14 +20,14 @@
 | Code | Situation | 情況 | Use |
 | --- | --- | --- | --- |
 | **C1** | Profits tax **charge** (after reduction) | 有利得稅開支（寬減後仍有稅） | Rate + reduction + short table + payable |
-| **C2** | Charge fully wiped by **reduction** | 原應付稅款被寬減全數抵銷 | T2 narrative + P1/P2 |
-| **N1** | **No assessable profits** | 並無應課稅溢利 | T1 text + P1/P2 |
-| **N2** | **Current-year tax loss** | 本年度稅項虧損 | T4 text + P1/P2 |
-| **N3** | Profit fully offset by **b/f losses** | 應課稅溢利由承前虧損全數抵銷 | T3 text + P1/P2 |
-| **P1** | Payable still on SoFP | 結算日仍有應付稅 | Payable HK$ line |
-| **P2** | Truly no payable | 結算日無應付稅 | Nil-payable line |
+| **C2** | Charge fully wiped by **reduction** | 原應付稅款被寬減全數抵銷 | T2 narrative + P1 if payable remains |
+| **N1** | **No assessable profits** | 並無應課稅溢利 | T1 text + P1 if payable remains |
+| **N2** | **Current-year tax loss** | 本年度稅項虧損 | T4 text + P1 if payable remains |
+| **N3** | Profit fully offset by **b/f losses** | 應課稅溢利由承前虧損全數抵銷 | T3 text + P1 if payable remains |
+| **P1** | Payable still on SoFP | 結算日仍有應付稅 | Payable HK$ line (**required**) |
+| **P2** | Truly no payable — optional omit | 結算日無應付稅 — 可省略應付句（非必須） | Nil-payable line, or skip |
 
-Attach **P1 or P2** to every C2 / N1 / N2 / N3 note. C1 already includes a payable line.
+**P1 required** when a payable remains on the SoFP / at the year-end date. **P2 optional** — when payable is truly nil, the team **may omit** the payable sentence entirely (skip the statement). The P2 specimen stays on this page for cases that still want an explicit nil line. C1 already includes a payable line.
 
 ---
 
@@ -113,7 +115,7 @@ otherwise payable is fully covered by the applicable profits tax reduction.
 利得稅寬減全數抵銷。
 ```
 
-Then add **P1 or P2**. Confirm the reduction applies to that year of assessment (amount and cap).
+Then add **P1** when a payable remains on the SoFP / at year end. When payable is truly nil, **P2** is optional and the payable sentence may be omitted. Confirm the reduction applies to that year of assessment (amount and cap).
 
 ---
 
@@ -136,7 +138,7 @@ Company had no assessable profits.
 由於本公司於本年度並無應課稅溢利，故並無就香港利得稅作出撥備。
 ```
 
-Then add **P1 or P2**. Do **not** use N1 when the computation shows a current-year tax loss (use **N2**).
+Then add **P1** when a payable remains on the SoFP / at year end. When payable is truly nil, **P2** is optional and the payable sentence may be omitted. Do **not** use N1 when the computation shows a current-year tax loss (use **N2**).
 
 ---
 
@@ -159,7 +161,7 @@ Company incurred a tax loss.
 由於本公司於本年度產生稅項虧損，故並無就香港利得稅作出撥備。
 ```
 
-Then add **P1 or P2**. Unused-loss balance **increases**. State a cumulative HK$ unused-loss figure only if a tax-loss schedule supports it.
+Then add **P1** when a payable remains on the SoFP / at year end. When payable is truly nil, **P2** is optional and the payable sentence may be omitted. Unused-loss balance **increases**. State a cumulative HK$ unused-loss figure only if a tax-loss schedule supports it.
 
 ---
 
@@ -184,7 +186,7 @@ assessable profits are fully offset by tax losses brought forward
 利得稅作出撥備（上年度：相同）。
 ```
 
-Then add **P1 or P2**. Unused-loss balance **decreases**. Full absorption of current profits does not mean all available losses are used up.
+Then add **P1** when a payable remains on the SoFP / at year end. When payable is truly nil, **P2** is optional and the payable sentence may be omitted. Unused-loss balance **decreases**. Full absorption of current profits does not mean all available losses are used up.
 
 **N3 comparative (Allen lock 2026-10-12):** When the prior year also had no provision for the same reason (assessable profits fully offset by tax losses brought forward), append `([PY]: same)` / `（上年度：相同）` to the N3 sentence. Do **not** use N2. Do **not** add an Inland Revenue "subject to agreement" sentence.
 
@@ -208,6 +210,8 @@ Hong Kong Profits Tax payable at [YE DATE] amounted to HK$[XX,XXX]
 ---
 
 ## P2 — No payable at year end / 無應付稅
+
+**Optional (Allen lock 2026-10-23).** When Hong Kong Profits Tax payable is truly nil, this sentence may be omitted entirely. Use the specimen only when an explicit nil line is wanted. If a payable remains (provisional tax, prior year, payments on account), use **P1**.
 
 ### English
 

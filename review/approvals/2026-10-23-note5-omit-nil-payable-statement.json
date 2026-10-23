@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-23-note5-omit-nil-payable-statement",
+  "date": "2026-10-23",
+  "approval_date": "2026-10-23",
+  "approver": "allen",
+  "locked_by": "Allen",
+  "status": "locked",
+  "via": "chat LOCK 23 Oct 2026 HKT",
+  "paths": [
+    "parts/05-notes/illustrative-income-tax.md",
+    "parts/05-notes.md",
+    "wiki/docs/05-notes/n03-05-revenue-tax.md"
+  ],
+  "scope": "Note 5 narrative only (Allen lock 2026-09-19 page). P1 required when a payable remains on the SoFP / at year end. P2 optional: when Hong Kong Profits Tax payable is truly nil, the payable sentence may be omitted. P2 specimen kept for an explicit nil line. Nil expense is not nil payable. Wiki n03-05 Scenario C gets a pointer only.",
+  "decision": "Note 5 Income Tax — when Hong Kong Profits Tax payable is truly nil, the team may skip / omit the payable statement (locked P2). Do not force writing P2.",
+  "quote": "Note 5 Income Tax — when Hong Kong Profits Tax payable is truly nil, the team may skip / omit the payable statement (locked P2). Do not force writing P2.",
+  "sofp": "SoFP face Income tax payable line may be omitted when unused (both years nil). That face rule already exists as Remove unused lines. This lock does not change the SoFP.",
+  "boundary": "Does not lock deferred tax, overseas tax, or Scenario rewrites. FILE ONLY — not merged; wait for Allen MERGE GO.",
+  "public_republish": "after MERGE"
+}

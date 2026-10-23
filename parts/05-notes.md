@@ -11,7 +11,7 @@ Maps to nav: 附注
 - [Note 2 — PPE & investments (cost)](./05-notes/illustrative-ppe-investment-policies.md) — locked 2026-09-19 (PPE / sub·asso·JV / equity inv at cost)
 - [Note 2 — Inventories & income tax](./05-notes/illustrative-inventory-tax-policies.md) — locked 2026-09-19 (NRV; current tax only)
 - [Note 2 — Related parties policy (long)](./05-notes/illustrative-related-parties-policy.md) — locked 2026-09-19 (Excel 12(c) EN + editorial 中文)
-- [Note 5 — Income tax](./05-notes/illustrative-income-tax.md) — locked 2026-09-19 (C1/C2/N1–N3/P1–P2; text if no provision)
+- [Note 5 — Income tax](./05-notes/illustrative-income-tax.md) — locked 2026-09-19 (C1/C2/N1–N3/P1–P2; text if no provision); P2 optional omit when payable truly nil (Allen lock 2026-10-23)
 - [Directors' remuneration](./05-notes/illustrative-directors-remuneration.md) — locked 2026-09-19 (A sentence none / B table)
 - [Notes 13 & 15 — Accounts and other receivables / payables](./05-notes/illustrative-accounts-receivables-payables.md) — locked 2026-09-14
 - [Note 11 — Amounts due from/(to) directors (s.383(1)(d))](./05-notes/illustrative-amounts-due-directors-s383.md) — locked 2026-09-14 (+ Variants A, C)

@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-23",
+  "approver": "allen",
+  "locked_by": "Allen",
+  "status": "locked",
+  "via": "Allen LOCK 23 Oct 2026 HKT",
+  "timezone": "HKT",
+  "paths": [
+    "parts/05-notes/illustrative-going-concern-path-a.md",
+    "wiki/docs/05-notes/n02-basis-policies.md",
+    "wiki/docs/99-appendices/gc-reference.md",
+    "wiki/docs/index.md"
+  ],
+  "forms": {
+    "form_dated": {
+      "label": "Form Dated",
+      "point": "explicit calendar date (年月日)",
+      "zh_exact_source": "於二零二五年十二月三十一日，本公司之淨負債為港元6,964,854.00元。",
+      "zh": "於[年]年[月]月[日]日，本公司之淨負債為港元[淨負債金額]元。",
+      "en": "As at [DAY] [MONTH] [YEAR], the Company had net liabilities of HK$[NET_LIABILITIES_AMOUNT].",
+      "currency_zh": "港元…元"
+    },
+    "form_jiesuanri": {
+      "label": "Form 結算日",
+      "point": "結算日 / as at the balance sheet date",
+      "zh_exact_source": "於結算日，本公司之總負債超出其總資產港幣6,964,854.00。",
+      "zh": "於結算日，本公司之總負債超出其總資產港幣[淨負債金額]。",
+      "en": "As at the balance sheet date, the Company's total liabilities exceeded its total assets by HK$[NET_LIABILITIES_AMOUNT].",
+      "currency_zh": "港幣"
+    }
+  },
+  "either_form_accepted": true,
+  "must_only": false,
+  "do_not_invent_a_third": true,
+  "scope": "Allen LOCK 23 Oct 2026 HKT: Going-concern Note 2 Path A net-liabilities sentence. Both date styles are accepted and locked; neither is must-only. The point is whether a calendar date is shown (年月日 vs 結算日). Amounts in the exact source are examples and are locked as placeholders. Form 結算日 Chinese currency stays 港幣. Form Dated Chinese currency is 港元…元. Variant P and Variant S specimens remain Form 結算日. Wiki n02 keeps the Form 結算日 specimen and points at this parts page. gc-reference and wiki index Path A rule lines that forbade an explicit date are aligned to the same lock. Path B / MURGC and director/shareholder support wording are out of scope. Not merged by this file.",
+  "decision": "Team may pick either Form 結算日 or Form Dated for the Path A net-liabilities sentence. Do not invent a third. Wait for Allen MERGE GO.",
+  "out_of_scope": [
+    "Path B / MURGC",
+    "director and shareholder support wording"
+  ],
+  "public_republish": "after MERGE",
+  "merge": "wait for Allen MERGE GO"
+}
