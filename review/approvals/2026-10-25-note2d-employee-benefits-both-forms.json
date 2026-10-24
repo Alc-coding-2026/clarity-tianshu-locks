@@ -1,0 +1,38 @@
+{
+  "id": "2026-10-25-note2d-employee-benefits-both-forms",
+  "locked_at": "2026-10-25",
+  "locked_by": "Allen Chan",
+  "approver": "allen",
+  "status": "LOCKED",
+  "via": "Allen LOCK 2026-10-25 via chat t410u — both Note 2(d) employee benefits versions accepted",
+  "timezone": "HKT",
+  "paths": [
+    "parts/05-notes/illustrative-employee-benefits-policies.md"
+  ],
+  "forms": {
+    "form_long": {
+      "label": "Form Long",
+      "point": "legacy Cap.485 MPF paragraph + STEB sub-heads (P-20260718-01 / Allen lock 2026-10-10)",
+      "en_heading": "Employee benefits / Retirement benefits / Short-term employee benefits",
+      "zh_heading": "僱員福利 / 退休福利 / 短期僱員福利"
+    },
+    "form_short": {
+      "label": "Form Short",
+      "point": "Bespoke short alternate — one heading, STEB then MPF payable sentence; no Cap.485 vesting/fund detail",
+      "en": "Employee benefits\n\nSalaries, allowances and the cost of non-monetary benefits are accrued in the period in which the associated services are rendered by employees.\n\nContributions to the Mandatory Provident Fund Scheme are charged to profit or loss as they become payable.",
+      "zh": "僱員福利\n\n薪金、津貼及非貨幣福利之成本於僱員提供相關服務之期間內計提。\n\n強制性公積金計劃之供款於應付時在損益中扣除。"
+    }
+  },
+  "either_form_accepted": true,
+  "must_only": false,
+  "do_not_invent_a_third": true,
+  "rules": {
+    "include_when": "staff costs, directors' salaries or MPF contributions in current or comparative year",
+    "drop_when": "nil in both years",
+    "mpf": "defined-contribution MPF only; no defined-benefit / ORSO / LSP / share-based in this common SME pack"
+  },
+  "decision": "Keep existing Form Long lock and add Form Short (Bespoke) as alternate accepted form on the same page. Team may pick either. Do not invent a third. Wait for Allen MERGE GO.",
+  "layout": "one file parts/05-notes/illustrative-employee-benefits-policies.md with Form Long then Form Short sections",
+  "public_republish": "do not republish; FILE ONLY until MERGE",
+  "merge": "FILE ONLY — do not merge without Allen MERGE GO"
+}

@@ -18,7 +18,7 @@ See **[illustrative-ppe-investment-policies.md](./illustrative-ppe-investment-po
 
 ### Employee benefits (short-term + MPF) — Note 2(d)
 
-See **[illustrative-employee-benefits-policies.md](./illustrative-employee-benefits-policies.md)** — **Allen lock 2026-10-10** (wording) + **2026-10-12** (Note 2(d) one heading STEB+MPF). Short-term accrual + defined-contribution MPF.
+See **[illustrative-employee-benefits-policies.md](./illustrative-employee-benefits-policies.md)** — **Allen lock 2026-10-10** (Form Long wording) + **2026-10-12** (Note 2(d) one heading STEB+MPF) + **2026-10-25** (Form Short Bespoke alternate; both forms accepted). Short-term accrual + defined-contribution MPF.
 
 ### Inventories & income tax
 
