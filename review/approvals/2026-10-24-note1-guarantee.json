@@ -1,0 +1,21 @@
+{
+  "id": "2026-10-24-note1-guarantee",
+  "locked_at": "2026-10-24",
+  "locked_by": "Allen Chan",
+  "via": "Audit/天書 chat (Lock it + defined term the Company)",
+  "decision": "Lock Note 1 General Information for company limited by guarantee EN+ZH; defined term (the Company); members’ guarantee in Note 1; no share-capital note.",
+  "paths": [
+    "parts/05-notes/illustrative-general-information-guarantee.md"
+  ],
+  "status": "LOCKED",
+  "defined_term": "(the \"Company\") / 「本公司」",
+  "scope": "Hong Kong company limited by guarantee; company-level; no subsidiaries. Not for a company limited by shares. Members’ guarantee stays in Note 1. Framework (SME-FRS vs HKFRS-PE) is out of scope of this page. Reporting exemption (Cap. 622 s.359(1)(a)) belongs in Note 2 / basis, not this Note 1.",
+  "do_not": [
+    "Do not use Association or Society as the default defined term.",
+    "Do not add a Share Capital note for a company limited by guarantee.",
+    "Do not invent a separate Members’ Guarantee note.",
+    "Do not invent a Note 2 specimen on this page."
+  ],
+  "public_republish": "do not republish; FILE ONLY until MERGE",
+  "merge": "FILE ONLY — do not merge"
+}

@@ -29,6 +29,7 @@ parts/05-notes/illustrative-employee-benefits-policies.md
 parts/05-notes/illustrative-fellow-costs-not-recharged.md
 parts/05-notes/illustrative-fx-policies.md
 parts/05-notes/illustrative-general-information.md
+parts/05-notes/illustrative-general-information-guarantee.md
 parts/05-notes/illustrative-going-concern-path-a.md
 parts/05-notes/illustrative-holding-company.md
 parts/05-notes/illustrative-income-tax.md
@@ -102,3 +103,4 @@ review/approvals/2026-10-22-restatement-cases.json
 review/approvals/2026-10-23-gc-path-a-net-liabilities-date-forms.json
 review/approvals/2026-10-23-note5-omit-nil-payable-statement.json
 review/approvals/2026-10-24-case4-dereg-auditor-resign-combine.json
+review/approvals/2026-10-24-note1-guarantee.json

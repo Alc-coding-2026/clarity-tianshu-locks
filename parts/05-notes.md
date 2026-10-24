@@ -32,7 +32,8 @@ Maps to nav: 附注
 
 ### Other locked specimens
 - [Non-consol full bases A/B/C/S](./05-notes/illustrative-non-consol-bases.md) — locked 2026-09-27 (Cap.622 s.379(3)(a)/(b)/(c) + SME-FRS 19.1(c))
-- [General information](./05-notes/illustrative-general-information.md) — locked 2026-09-13
+- [General information](./05-notes/illustrative-general-information.md) — locked 2026-09-13 (private company limited by shares)
+- [General information — company limited by guarantee](./05-notes/illustrative-general-information-guarantee.md) — locked 2026-10-24 (no share capital; members’ guarantee in Note 1; not for companies limited by shares)
 - [Basis / policies intro](./05-notes/illustrative-basis-policies.md) — locked 2026-09-13
 - [PPE movement note](./05-notes/illustrative-ppe.md) — locked 2026-09-13
 - [Related parties disclosures](./05-notes/illustrative-related-parties.md) — locked 2026-09-13

@@ -4,6 +4,8 @@
 
 **適用 / Scope:** Hong Kong private company limited by shares; company-level SME-FRS statements, with no subsidiaries. 本範例適用於香港私人股份有限公司，按 SME-FRS 編製公司層面財務報表，且並無附屬公司。
 
+Company limited by guarantee (no share capital): [illustrative-general-information-guarantee.md](./illustrative-general-information-guarantee.md). / 擔保有限公司（並無股本）改用該頁。
+
 === "English"
 
     ```text
