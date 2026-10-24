@@ -5,7 +5,7 @@
 **Rules**
 - Use when the Company **ceased business** and directors **intend to apply for deregistration** under Cap.622 **s.750**.
 - SoFP face must carry the break-up caption (see below).
-- Break-up basis is explained **only here** — AR has **no** dereg EOM / no going-concern reference.
+- Break-up basis is disclosed **here** (SoFP caption + Note 2 body). The AR **requires** the locked break-up EOM that draws attention to this Note 2 — see [`../03-ar/eom-breakup-basis.md`](../03-ar/eom-breakup-basis.md). That EOM must **not** contrast break-up with going concern / 持續經營 (Allen 2026-10-24).
 - Excel **long** Note 2 paragraph (recoverable amounts / contingent A/L / “no material adjustments”) is **not** locked here.
 - s.750(2) settle/waive undertaking is separate (SoFP footnote / Note 11 Variant C).
 
@@ -62,6 +62,7 @@ be settled. All assets and liabilities are classified as current.
 
 ## Related
 
+- AR break-up EOM: [`../03-ar/eom-breakup-basis.md`](../03-ar/eom-breakup-basis.md)
 - Subsequent events Variant B: [illustrative-dereg-subsequent-events.md](./illustrative-dereg-subsequent-events.md)
 - DR Case 4: [../02-dr/case4-dereg.md](../02-dr/case4-dereg.md)
 - Pack index: [../06-dereg.md](../06-dereg.md)

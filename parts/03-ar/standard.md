@@ -21,6 +21,7 @@
 - Optional Other Matter (predecessor): [`other-matter-predecessor.md`](./other-matter-predecessor.md) — **LOCKED optional, default OMIT**
 - QO-A / B / C / D: [`qo-a-s369.md`](./qo-a-s369.md), [`qo-b-bank.md`](./qo-b-bank.md), [`qo-c-completeness.md`](./qo-c-completeness.md), [`qo-d-feupyc.md`](./qo-d-feupyc.md)
 - Period / cessation wording: [`dereg.md`](./dereg.md)
+- Break-up / dereg EOM (required when FS on break-up): [`eom-breakup-basis.md`](./eom-breakup-basis.md) — **Allen invent LOCK 2026-10-24**; FILE ONLY until MERGE GO
 
 ### Assembly / 組裝
 
@@ -288,7 +289,7 @@ QCAC house face (Clarity CPA & Co.):
 | Qualified Opinion paragraphs | Use locked QO-A/B/C/D modules; change Opinion / Basis headings |
 | Cap. 622 s.407 Report on Other Matters | Only with applicable QO |
 | MURGC Emphasis of Matter | Separate Path B module — **not drafted here** |
-| Break-up / dereg EOM | See [`dereg.md`](./dereg.md) — no locked dereg EOM body; do not invent |
+| Break-up / dereg EOM | Required when FS on break-up — [`eom-breakup-basis.md`](./eom-breakup-basis.md) (EN+ZH); Note 2 remains disclosure home; no GC contrast in EOM |
 | Engagement letter / representation letter | AUDIT MANAGER / AutoFS templates — out of 天書 AR shell |
 
 ---

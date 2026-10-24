@@ -1,0 +1,23 @@
+{
+  "id": "2026-10-24-ar-eom-breakup",
+  "locked_at": "2026-10-24",
+  "locked_by": "Allen Chan",
+  "via": "Audit/天書 chat widget t406s1565 — FILE ONLY invent EN+ZH break-up EOM in AR; overturn no-dereg-EOM lock",
+  "decision": "Invent and lock EN+ZH Emphasis of Matter — Basis of Accounting (break-up / deregistration) in the auditor's report. Overturn prior house rule that forbade a dereg EOM and said break-up is explained only in Note 2. EOM required when FS on break-up; cross-ref Note 2; do NOT use 'rather than going concern' / 而非持續經營基礎. Note 2 + SoFP caption remain the disclosure home.",
+  "paths": [
+    "parts/03-ar/eom-breakup-basis.md",
+    "parts/03-ar/dereg.md",
+    "parts/03-ar/standard.md",
+    "parts/05-notes/illustrative-dereg-breakup-basis.md",
+    "parts/06-dereg.md"
+  ],
+  "ids": [
+    "tianshu.ar.eom.break-up.en",
+    "tianshu.ar.eom.break-up.zh"
+  ],
+  "status": "LOCKED",
+  "hard_rule": "AR EOM must not contrast break-up with going concern / 持續經營. Zero GC words in the EOM body preferred.",
+  "note2": "parts/05-notes/illustrative-dereg-breakup-basis.md disclosure body and SoFP caption unchanged; Rules bullet updated to require AR EOM.",
+  "public_republish": "do not republish; FILE ONLY until MERGE",
+  "merge": "FILE ONLY — do not merge without Allen MERGE GO"
+}

@@ -14,6 +14,7 @@ Decision Tree: Dereg → `FOR THE PERIOD FROM [INCORP / PERIOD START] TO [CESSAT
 | Subsequent events Variant B EN+ZH | [05-notes/illustrative-dereg-subsequent-events.md](./05-notes/illustrative-dereg-subsequent-events.md) |
 | Directors' Report Case 4 EN+ZH | [02-dr/case4-dereg.md](./02-dr/case4-dereg.md) |
 | AR period wording | [03-ar/dereg.md](./03-ar/dereg.md) |
+| AR Emphasis of Matter — break-up EN+ZH | [03-ar/eom-breakup-basis.md](./03-ar/eom-breakup-basis.md) — invent LOCK 2026-10-24; FILE ONLY until MERGE GO |
 | Note 11 Variant C (s.750(2) on directors) | [05-notes/illustrative-amounts-due-directors-s383.md](./05-notes/illustrative-amounts-due-directors-s383.md) |
 
 Case 4 Auditor default stays the no-resign block. Prior auditor resigned and [Firm] appointed: use the labelled combine on that page (Allen LOCK 2026-10-24; awaiting MERGE GO via CoS). Two paragraphs, no audited-by sentence, no AGM further-appointment. Normal DR Auditor B is the wrong cross-ref. Record: [../review/approvals/2026-10-24-case4-dereg-auditor-resign-combine.json](../review/approvals/2026-10-24-case4-dereg-auditor-resign-combine.json).
