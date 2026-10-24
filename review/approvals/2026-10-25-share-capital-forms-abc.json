@@ -1,0 +1,45 @@
+{
+  "id": "2026-10-25-share-capital-forms-abc",
+  "locked_at": "2026-10-25",
+  "locked_by": "Allen Chan",
+  "approver": "allen",
+  "status": "LOCKED",
+  "via": "Allen LOCK via widget t413s1618 — FILE ONLY accept Bespoke two-column Form A and paren-comparative Form B as alternates alongside locked 4-column share capital",
+  "timezone": "HKT",
+  "paths": [
+    "parts/05-notes/illustrative-share-capital.md"
+  ],
+  "forms": {
+    "form_4_column": {
+      "label": "Form 4-column / Form Long",
+      "point": "existing Allen 2026-09-13 four-column no-movement table EN+ZH",
+      "when": "no movement either period"
+    },
+    "form_a": {
+      "label": "Form A — Bespoke two columns",
+      "point": "Allen t412u — year headers [CY] · [PY], share description, amount pair",
+      "en": "[N] SHARE CAPITAL\n\nIssued and fully paid ordinary shares:\n[CY] · [PY]\n[N] ordinary share[s]\n[CY_AMT] · [PY_AMT]",
+      "zh": "[N] 股本\n\n已發行及繳足普通股：\n[本年度] · [上年度]\n[N]股普通股\n[本年度金額] · [上年度金額]",
+      "example_en": "Issued and fully paid ordinary shares:\n2025 · 2024\n1 ordinary share\n1.00 · 1.00"
+    },
+    "form_b": {
+      "label": "Form B — paren comparative",
+      "point": "Allen t413u — [CY shares] ordinary shares ([PY year]: [PY shares] ordinary shares) [CY amt] [PY amt]",
+      "en": "[N] SHARE CAPITAL\n\nIssued and fully paid ordinary shares:\n[CY_SHARES] ordinary shares ([PY_YEAR]: [PY_SHARES] ordinary shares)  [CY_AMT]  [PY_AMT]",
+      "zh": "[N] 股本\n\n已發行及繳足普通股：\n[本年度股數]股普通股（[上年度年份]：[上年度股數]股普通股）  [本年度金額]  [上年度金額]",
+      "example_en": "100 ordinary shares (2024: 50 ordinary shares)  100  50"
+    }
+  },
+  "either_form_accepted": true,
+  "must_only": false,
+  "do_not_invent_a_fourth": true,
+  "scope": "Hong Kong company limited by shares; one fully paid ordinary share class. Multi-class / issues / redemptions / reductions / unpaid still need a separate movement schedule (unchanged 2026-09-13 rule).",
+  "fit_notes": {
+    "no_movement": "Form 4-column or Form A",
+    "differing_share_counts_paren": "Form B may apply (per Allen t413u face); not a full movement schedule"
+  },
+  "decision": "Keep existing Form 4-column lock and add Form A (Bespoke two columns) and Form B (paren comparative) as accepted alternates on the same page. All three accepted; neither must-only. Do not invent a fourth. Wait for Allen MERGE GO.",
+  "layout": "one file parts/05-notes/illustrative-share-capital.md with Form 4-column then Form A then Form B",
+  "public_republish": "do not republish; FILE ONLY until MERGE",
+  "merge": "FILE ONLY — do not merge without Allen MERGE GO"
+}
