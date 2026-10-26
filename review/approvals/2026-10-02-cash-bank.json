@@ -1,0 +1,16 @@
+{
+  "id": "2026-10-02-cash-bank",
+  "locked_at": "2026-10-02",
+  "locked_by": "Allen Chan",
+  "via": "Audit/天書 chat t238u",
+  "decision": "Lock cash and bank balances disclosure note (CB-A preferred; CB-S optional).",
+  "paths": [
+    "parts/05-notes/illustrative-cash-bank.md"
+  ],
+  "defaults": {
+    "note_numbers": "[N] placeholders kept"
+  },
+  "not_included": [
+    "No reclassification of Notes 13/15 dues as cash"
+  ]
+}

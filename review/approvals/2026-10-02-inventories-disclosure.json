@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-02-inventories-disclosure",
+  "locked_at": "2026-10-02",
+  "locked_by": "Allen Chan",
+  "via": "Audit/天書 chat t238u",
+  "decision": "Lock inventories disclosure note (not Note 2 policy).",
+  "paths": [
+    "parts/05-notes/illustrative-inventories.md"
+  ],
+  "defaults": {
+    "default_module": "INV-T single total",
+    "optional_module": "INV-D category breakdown",
+    "omit_when_nil": true,
+    "note_numbers": "[N] placeholders kept"
+  },
+  "not_included": [
+    "No change to locked Note 2 inventory policy",
+    "Income tax Note 5 untouched"
+  ]
+}

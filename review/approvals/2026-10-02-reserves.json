@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-02-reserves",
+  "locked_at": "2026-10-02",
+  "locked_by": "Allen Chan",
+  "via": "Audit/天書 chat t238u",
+  "decision": "Lock reserves / retained-earnings movement note (wiki N-17 shape).",
+  "paths": [
+    "parts/05-notes/illustrative-reserves.md"
+  ],
+  "defaults": {
+    "omit_when_socie_presented": true,
+    "note_numbers": "[N] placeholders kept"
+  },
+  "not_included": [
+    "Do not duplicate when locked SOCIE is presented",
+    "Share capital remains on its locked page"
+  ]
+}
