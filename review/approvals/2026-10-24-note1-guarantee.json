@@ -16,6 +16,6 @@
     "Do not invent a separate Members’ Guarantee note.",
     "Do not invent a Note 2 specimen on this page."
   ],
-  "public_republish": "do not republish; FILE ONLY until MERGE",
-  "merge": "FILE ONLY — do not merge"
+  "public_republish": "published (PR #16; public republish followed)",
+  "merge": "MERGED (PR #16; private tip d58cf51)"
 }

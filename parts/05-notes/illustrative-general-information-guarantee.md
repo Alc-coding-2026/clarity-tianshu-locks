@@ -2,7 +2,9 @@
 
 **Allen 已批准 / Approved by Allen · 2026-10-24（英文及繁體中文 / EN + 繁體中文）** 中文為已批准的編輯譯文，並非 HKICPA 官方譯文。 / Chinese is an approved editorial translation, not an official HKICPA translation.
 
-**Approval:** [`review/approvals/2026-10-24-note1-guarantee.json`](../../review/approvals/2026-10-24-note1-guarantee.json). FILE ONLY until MERGE GO. Do not republish public locks from this page.
+**Approval:** [`review/approvals/2026-10-24-note1-guarantee.json`](../../review/approvals/2026-10-24-note1-guarantee.json).
+
+**Status:** LOCKED (Allen 2026-10-24); merged (PR #16).
 
 **適用 / Scope:** Hong Kong company limited by guarantee (no share capital); company-level; no subsidiaries. Not for a company limited by shares. 本範例適用於香港擔保有限公司（並無股本），公司層面，且並無附屬公司。不適用於股份有限公司。股份有限公司改用 [illustrative-general-information.md](./illustrative-general-information.md)。
 
