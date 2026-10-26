@@ -21,6 +21,8 @@ parts/05-notes/illustrative-accounts-receivables-payables.md
 parts/05-notes/illustrative-amounts-due-directors-s383.md
 parts/05-notes/illustrative-bank-loans.md
 parts/05-notes/illustrative-basis-policies.md
+parts/05-notes/illustrative-cash-bank.md
+parts/05-notes/illustrative-commitments-events.md
 parts/05-notes/illustrative-core-policies.md
 parts/05-notes/illustrative-currency-note1.md
 parts/05-notes/illustrative-dereg-breakup-basis.md
@@ -34,12 +36,15 @@ parts/05-notes/illustrative-general-information-guarantee.md
 parts/05-notes/illustrative-going-concern-path-a.md
 parts/05-notes/illustrative-holding-company.md
 parts/05-notes/illustrative-income-tax.md
+parts/05-notes/illustrative-inventories.md
 parts/05-notes/illustrative-inventory-tax-policies.md
+parts/05-notes/illustrative-investments.md
 parts/05-notes/illustrative-non-consol-bases.md
 parts/05-notes/illustrative-ppe-investment-policies.md
 parts/05-notes/illustrative-ppe.md
 parts/05-notes/illustrative-related-parties-policy.md
 parts/05-notes/illustrative-related-parties.md
+parts/05-notes/illustrative-reserves.md
 parts/05-notes/illustrative-revenue-policies.md
 parts/05-notes/illustrative-revenue.md
 parts/05-notes/illustrative-share-capital.md
@@ -69,7 +74,12 @@ review/approvals/2026-09-19-socie.json
 review/approvals/2026-09-19-sofp-streamlined.json
 review/approvals/2026-09-27-non-consol-bases-abc-s.json
 review/approvals/2026-10-02-bank-loans.json
+review/approvals/2026-10-02-cash-bank.json
+review/approvals/2026-10-02-commitments-events.json
+review/approvals/2026-10-02-inventories-disclosure.json
+review/approvals/2026-10-02-investment-disclosures.json
 review/approvals/2026-10-02-normal-dr-standard.json
+review/approvals/2026-10-02-reserves.json
 review/approvals/2026-10-10-ar-standard.json
 review/approvals/2026-10-10-dormant-dr.json
 review/approvals/2026-10-10-employee-benefits.json

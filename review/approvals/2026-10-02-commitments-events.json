@@ -1,0 +1,19 @@
+{
+  "id": "2026-10-02-commitments-events",
+  "locked_at": "2026-10-02",
+  "locked_by": "Allen Chan",
+  "via": "Audit/天書 chat t238u",
+  "decision": "Lock commitments, contingencies, subsequent events and authorisation specimens, including operating-lease three-band P-20260619-01.",
+  "paths": [
+    "parts/05-notes/illustrative-commitments-events.md"
+  ],
+  "defaults": {
+    "OL": "three-band (within 1y / 2nd–5th years inclusive / after 5 years) per P-20260619-01",
+    "note_numbers": "[N] placeholders kept"
+  },
+  "not_included": [
+    "No standalone dividend note",
+    "No invented capital-commitment SME-FRS mandate beyond house practice specimens",
+    "Dereg subsequent-events Variant B stays on its locked page"
+  ]
+}
