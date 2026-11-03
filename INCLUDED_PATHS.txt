@@ -8,7 +8,9 @@ parts/03-ar/dereg.md
 parts/03-ar/eom-breakup-basis.md
 parts/03-ar/qo-a-s369.md
 parts/03-ar/qo-b-bank.md
+parts/03-ar/qo-b-bank-form-alt.md
 parts/03-ar/qo-c-completeness.md
+parts/03-ar/qo-c-revenue-cash-basis-form-alt.md
 parts/03-ar/qo-d-feupyc.md
 parts/03-ar/qo-inventory-take-draft.md
 parts/03-ar/standard.md

@@ -31,3 +31,7 @@ https://siumon.eternalorigins.net/tianshu/03-ar/qo-b-bank/#_1
 Matrix combined: Basis bullets “1. Bank, 2. Records”; number paragraphs “1. … 2. …”; AR header “except for the possible effects of the matters described in paragraphs 1 and 2”.
 
 For 信昌行: **§1 = QO-B**, **§2 = QO-C** completeness (keep “cost of services” wording).
+
+## Form Alt (electable)
+
+Optional bank-confirmation-letter wording (no confirmation received) is locked at [`qo-b-bank-form-alt.md`](./qo-b-bank-form-alt.md). **Not the default.** Soft invent stays on this locked QO-B. Use the Alt only when Allen elects it. The basis wording above is unchanged.
