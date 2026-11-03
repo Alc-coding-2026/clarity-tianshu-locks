@@ -41,3 +41,7 @@ In respect alone of the inability to obtain sufficient appropriate audit evidenc
 ## Not QO-A records (minimal ops)
 
 QO-A records limitation is framed as “minimal business operations with limited transactions” — **not** a good exact fit for ACTIVE trading. Prefer QO-C for bank-statement-based records.
+
+## Form Alt (electable)
+
+Optional cash-basis revenue and cost of sales wording is locked at [`qo-c-revenue-cash-basis-form-alt.md`](./qo-c-revenue-cash-basis-form-alt.md). **Not the default.** Soft invent stays on this locked QO-C (revenue / cost of services). Use the Alt only when Allen elects it. The basis wording above is unchanged.
