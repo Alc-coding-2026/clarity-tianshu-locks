@@ -3,6 +3,7 @@
 **Status:** **LOCKED UPGRADED 2026-10-02** (Allen). House **standard** statutory directors’ report for the SME-FRS normal-company pack, upgraded to match Allen’s two live common Clarity specimens.  
 EN + editorial 繁體中文 (**Allen approved ZH 2026-10-02**). Chinese is **not** an official HKICPA / CR translation.  
 **Approval:** [`review/approvals/2026-10-02-normal-dr-standard.json`](../../review/approvals/2026-10-02-normal-dr-standard.json)  
+**Year / period (Allen lock 2026-10-23, confirmed 2026-11-04):** on a year-end case, `[period / year]` / 「[期間／年度]」 may be either year / 「年度」 or period / 「期間」. 期間 on an annual pack is not a defect; a mix is not a rematch flag. [House note](../00-house/ye-period-year-wording.md).  
 **Alias:** pack / AutoFS checks may resolve this as [`standard.md`](./standard.md) (pointer to this locked specimen). Filename `normal-sme-shares-draft.md` kept for history.
 
 HKCO reporting-exemption private company limited by shares · SME-FRS · no subsidiaries · company-level **going-concern** report (normal annual **or** first / multi-period from incorporation to year-end).  
