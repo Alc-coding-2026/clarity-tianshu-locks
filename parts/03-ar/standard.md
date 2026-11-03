@@ -84,7 +84,7 @@ QCAC places this block in the **AR section header** (with Clarity letterhead). I
 
 **Framework-name note (EN):** The opinion sentence above is the **QCAC house face** form. It is used here only as the draft default. **Allen's separate lock of the full framework string still controls** FS, AR, engagement letter and representation letter.
 
-**Period note:** For a first or non-annual period, replace "for the year ended [YEAR END DATE]" with the actual period wording (see [`dereg.md`](./dereg.md) / DR Opening A). Do not change the opinion criteria sentence solely because the period is non-annual.
+**Period note:** For a first or non-annual period, replace "for the year ended [YEAR END DATE]" with the actual period wording (see [`dereg.md`](./dereg.md) / DR Opening A). Do not change the opinion criteria sentence solely because the period is non-annual. On a year-end / annual case, “year” / 「年度」 and “period” / 「期間」 are both accepted, including “year end” and “period end” (Allen lock 2026-10-23, confirmed 2026-11-04 — [`../00-house/ye-period-year-wording.md`](../00-house/ye-period-year-wording.md)); a mix is not a rematch flag.
 
 ---
 

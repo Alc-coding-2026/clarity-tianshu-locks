@@ -1,0 +1,27 @@
+{
+  "id": "2026-10-23-ye-period-year-wording",
+  "date": "2026-10-23",
+  "confirmed_at": "2026-11-04",
+  "approver": "allen",
+  "locked_by": "Allen",
+  "status": "locked",
+  "via": "Allen LOCK 2026-10-23 (Audit/天書 memory); confirmed again 2026-11-04 HKT; Allen GO 2026-11-04 to put on the tip",
+  "timezone": "HKT",
+  "paths": [
+    "parts/00-house/ye-period-year-wording.md",
+    "parts/02-dr/normal-sme-shares-draft.md",
+    "parts/02-dr/dormant-sme-shares-draft.md",
+    "parts/02-dr/case4-dereg.md",
+    "parts/02-dr/standard.md",
+    "parts/03-ar/standard.md",
+    "wiki/page-sources.json",
+    "wiki/mkdocs.yml"
+  ],
+  "either_wording_accepted": true,
+  "must_only": false,
+  "mix_is_rematch_flag": false,
+  "scope": "Allen LOCK 2026-10-23, confirmed 2026-11-04 HKT. On a year-end / annual case, both “year” / 「年度」 and “period” / 「期間」 are accepted, and both “year end” and “period end” are accepted. The placeholders [period / year] and 「[期間／年度]」 may resolve either way. Using 期間 on an annual pack is not a defect. Prefer consistency within one pack when easy. A mix is not a rematch flag. Does not rewrite Opening A, Opening B, or cessation from–to faces.",
+  "decision": "Record the lock as a house note and point to it from DR/AR pages that use [period / year], plus the unmodified AR shell period note. Ready to squash-merge. Public locks republish after MERGE.",
+  "public_republish": "after MERGE — Allen 2026-11-04 asked to push to public locks. Add parts/00-house/ye-period-year-wording.md and this approval JSON to INCLUDED_PATHS, and refresh the already-included DR/AR pages listed in paths.",
+  "merge": "Allen GO 2026-11-04 — ready for Audit/天書 squash-merge; do not merge in the filing commit"
+}

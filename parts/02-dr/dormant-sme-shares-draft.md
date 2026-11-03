@@ -2,6 +2,8 @@
 
 **Status: LOCKED — Allen 2026-10-17** (principal activities = Note 1 cross-ref per Haoyi/QCAC faces; Articles AA = forever line). **Allen LOCK 2026-10-19 via CoS:** AutoFS default for all cases = Articles AA; Articles unknown is no longer a special gate. EN + editorial 繁體中文. Chinese is **not** an official HKICPA / CR translation.
 
+**Year / period (Allen lock 2026-10-23, confirmed 2026-11-04):** on a year-end case, `[period / year]` / 「[期間／年度]」 may be either year / 「年度」 or period / 「期間」. 期間 on an annual pack is not a defect; a mix is not a rematch flag. [House note](../00-house/ye-period-year-wording.md).
+
 **Purpose:** Short house statutory directors’ report for **dormant / inactive** HKCO private companies limited by shares under the SME-FRS company-level pack (typical **first-year dormant** packs; also usable for a subsequent dormant year).
 
 **Not for:** trading / normal going-concern DR (use locked [normal-sme-shares-draft.md](./normal-sme-shares-draft.md)); deregistration / cessation (use locked [case4-dereg.md](./case4-dereg.md)); guarantee company; consolidated report.

@@ -1,4 +1,5 @@
 parts/00-house/framework-name.md
+parts/00-house/ye-period-year-wording.md
 parts/01-shared/front-matter-draft.md
 parts/02-dr/case4-dereg.md
 parts/02-dr/dormant-sme-shares-draft.md
@@ -115,6 +116,7 @@ review/approvals/2026-10-22-qo-matrix.json
 review/approvals/2026-10-22-restatement-cases.json
 review/approvals/2026-10-23-gc-path-a-net-liabilities-date-forms.json
 review/approvals/2026-10-23-note5-omit-nil-payable-statement.json
+review/approvals/2026-10-23-ye-period-year-wording.json
 review/approvals/2026-10-24-ar-eom-breakup.json
 review/approvals/2026-10-24-case4-dereg-auditor-resign-combine.json
 review/approvals/2026-10-24-note1-guarantee.json

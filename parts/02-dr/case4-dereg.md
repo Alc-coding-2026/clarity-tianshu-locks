@@ -9,6 +9,7 @@
 - Directors: list names only; **do not invent** appoint dates; **do not** add “no director was appointed during the period.”
 - Auditor: **omit** AGM / further-appointment resolution; keep only “will not be proposed.” Default block = no mid-period resign. Combine branch = prior auditor resigned and [Firm] appointed (two paragraphs; no audited-by sentence). Do **not** use normal Auditor B.
 - Break-up detail stays in **Note 2** — DR only cross-refers.
+- Year-end / annual: `[period / year]` / 「[期間／年度]」 may resolve either way (Allen lock 2026-10-23, confirmed 2026-11-04). 期間 on an annual pack is not a defect; a mix is not a rematch flag. See [house note](../00-house/ye-period-year-wording.md). Cessation openings still name the from–to period.
 
 ---
 

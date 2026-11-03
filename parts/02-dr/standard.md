@@ -6,6 +6,8 @@ This path is the pack alias for the house **standard** statutory directors’ re
 
 **Canonical locked specimen (EN + ZH, modular):** [normal-sme-shares-draft.md](./normal-sme-shares-draft.md)
 
+**Year / period:** on a year-end case, both year / 「年度」 and period / 「期間」 are accepted ([house note](../00-house/ye-period-year-wording.md), Allen lock 2026-10-23, confirmed 2026-11-04).
+
 **Approval:** [`review/approvals/2026-10-02-normal-dr-standard.json`](../../review/approvals/2026-10-02-normal-dr-standard.json)
 
 **Upgrade note:** Wording upgraded 2026-10-02 to match Allen’s two live common Clarity specimens (first-period Specimen A; normal-year Specimen B) with Opening / Articles / Auditor / Dividend branches and Cap. 622 positive modules as alternatives to verified-nil shells.
